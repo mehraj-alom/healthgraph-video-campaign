@@ -1,0 +1,98 @@
+{
+  "id": "reel-14",
+  "language": "en",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Open a day from your health history.",
+      "startFrame": 0,
+      "endFrame": 62,
+      "durationFrames": 62,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "It doesn't look like a list of cards.",
+      "startFrame": 70,
+      "endFrame": 127,
+      "durationFrames": 57,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "It looks like the day itself.",
+      "startFrame": 135,
+      "endFrame": 188,
+      "durationFrames": 53,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "The paper rises out of the stack.",
+      "startFrame": 196,
+      "endFrame": 254,
+      "durationFrames": 58,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "It unfolds slowly, until the day fills the screen.",
+      "startFrame": 262,
+      "endFrame": 352,
+      "durationFrames": 90,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Saturday, October third: pulse, fifty nine beats per minute, at five fourteen in the afternoon.",
+      "startFrame": 360,
+      "endFrame": 527,
+      "durationFrames": 167,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "A second reading, sixty one beats per minute, from the fingertip.",
+      "startFrame": 535,
+      "endFrame": 648,
+      "durationFrames": 113,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Mood of the day: very good. Sleep: seven hours.",
+      "startFrame": 656,
+      "endFrame": 761,
+      "durationFrames": 105,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Six logs sit on the same page, tap to open.",
+      "startFrame": 769,
+      "endFrame": 854,
+      "durationFrames": 85,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Every day becomes a page you can come back to.",
+      "startFrame": 862,
+      "endFrame": 942,
+      "durationFrames": 80,
+      "gapBefore": 8
+    },
+    {
+      "id": "l11",
+      "text": "Explore the health diary.",
+      "startFrame": 950,
+      "endFrame": 999,
+      "durationFrames": 49,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 999,
+  "voiceSeconds": 33.3
+}

@@ -1,0 +1,207 @@
+{
+  "id": "discovery",
+  "language": "en",
+  "concept": "discovery-film",
+  "cluster": "H",
+  "hook": "Your health history doesn't live in one place.",
+  "cta": "Explore HealthGraph at healthgraph.shop",
+  "thumbnail": "Your health, connected.",
+  "caption": "Your health history doesn't live in one place. PDFs, notes, measurements, daily entries, all waiting to become connected context. HealthGraph turns your scattered records into a timeline you can browse, ask, and open day by day. Explore HealthGraph at healthgraph.shop #HealthGraph #PersonalHealth #HealthHistory #HealthTech #DigitalHealth #HealthDiary #SelfTracking #HealthData #Wellness #HealthJournal",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Your health history doesn't live in one place.",
+      "beat": "ACT1: fragmented objects drift apart in dark space as floating cards: PDF, NOTE, MEDICATION, MEASUREMENT, PHOTO, DAILY ENTRY."
+    },
+    {
+      "id": "l2",
+      "text": "And the pieces don't always make sense when they're separated.",
+      "beat": "ACT1: the floating pieces hold still with no lines between them, separate and unlinked."
+    },
+    {
+      "id": "l3",
+      "text": "A report here, a note there, a measurement somewhere else entirely.",
+      "beat": "ACT1: three object groups pan past in slow parallax: a PDF report, a handwritten note, a measurement card."
+    },
+    {
+      "id": "l4",
+      "text": "Meds, photos, daily entries, each one floating alone, disconnected from the rest.",
+      "beat": "ACT1: the full constellation of disconnected entries rotates slowly, every card isolated."
+    },
+    {
+      "id": "l5",
+      "text": "None of it connects to the other, and nobody keeps the whole.",
+      "beat": "ACT1: slow push-in on the empty space between the pieces, emphasizing what is missing."
+    },
+    {
+      "id": "l6",
+      "text": "You remember the result, but not the day you uploaded it.",
+      "beat": "ACT2: half-remembered calendar dates dissolve over the floating fragments."
+    },
+    {
+      "id": "l7",
+      "text": "What you took, when you took it, what has changed since.",
+      "beat": "ACT2: three floating question fragments surface: what happened, what you took, what changed."
+    },
+    {
+      "id": "l8",
+      "text": "So the past only comes back in fragments, in dates you half remember.",
+      "beat": "ACT2: the fragments drift out of focus into soft blur, memory visibly slipping away."
+    },
+    {
+      "id": "l9",
+      "text": "HealthGraph starts with a different idea about how this could work.",
+      "beat": "ACT2: the blur clears and a single glowing line begins to draw where the pieces were."
+    },
+    {
+      "id": "l10",
+      "text": "A document becomes a record. A moment becomes a point on a timeline.",
+      "beat": "ACT3: a PDF document card transforms into a structured record card, then docks onto a growing timeline."
+    },
+    {
+      "id": "l11",
+      "text": "A measurement finds its day. A medication finds its history.",
+      "beat": "ACT3: a measurement card snaps to its date and a medication card links to its earlier entries."
+    },
+    {
+      "id": "l12",
+      "text": "Entries that never spoke to each other now quietly connect.",
+      "beat": "ACT3: graph edges draw between nodes in teal, disconnected objects now sharing lines."
+    },
+    {
+      "id": "l13",
+      "text": "Each keeps its date, its source, and its place in the story.",
+      "beat": "ACT3: camera pulls back to show every node holding its date label and source type."
+    },
+    {
+      "id": "l14",
+      "text": "Draw it out, and your whole history starts to look like a graph.",
+      "beat": "ACT3: the constellation resolves into a full graph and the HEALTHGRAPH wordmark reveals."
+    },
+    {
+      "id": "l15",
+      "text": "Open the app, and today is already here, with your patterns by week, by year.",
+      "beat": "ACT4: home-dashboard.jpg fills the frame: Today Done 100% and Your patterns Week, Month, Year."
+    },
+    {
+      "id": "l16",
+      "text": "The health areas open one after another, each carrying its own history.",
+      "beat": "ACT4: explore-grid.png tiles cascade open as the health areas pan into view."
+    },
+    {
+      "id": "l17",
+      "text": "Records, documents, medications, measurements, flowing together instead of stacked in separate apps.",
+      "beat": "ACT4: records-upload.jpg, daily-log.jpg and medication rows flow side by side in a continuous montage."
+    },
+    {
+      "id": "l18",
+      "text": "Not a feature list. A flow, the way your health actually moves day to day.",
+      "beat": "ACT4: the montage resolves into health-graph.jpg, every element moving as one flow."
+    },
+    {
+      "id": "l19",
+      "text": "The timeline runs underneath it all, quiet and continuous.",
+      "beat": "ACT4: the health-graph timeline scrolls slowly beneath the nodes, 12 nodes, 22 connections."
+    },
+    {
+      "id": "l20",
+      "text": "Every day becomes a report. Not a card, a document.",
+      "beat": "ACT5: the health-graph timeline compresses downward into a single day band."
+    },
+    {
+      "id": "l21",
+      "text": "The whole timeline folds down into one full, ordinary day.",
+      "beat": "ACT5: daily-log.jpg opens: Mood Very good, Sleep 7h, recent history events listed."
+    },
+    {
+      "id": "l22",
+      "text": "Pulse, sleep, meals, mood, all logged across the hours of the day.",
+      "beat": "ACT5: daily-report.jpg stats glide across: pulse, meals, sleep and mood entries of the day."
+    },
+    {
+      "id": "l23",
+      "text": "Select a day, and the paper report rises and opens.",
+      "beat": "ACT5: the selected cream paper report rises from the stack and opens, 3 OCT Today."
+    },
+    {
+      "id": "l24",
+      "text": "An archive of days, your own history, one page at a time.",
+      "beat": "ACT5: the opened paper report settles like a page in an archive, more days waiting behind it."
+    },
+    {
+      "id": "l25",
+      "text": "Ask your records: when did I upload my blood report?",
+      "beat": "ACT6: ai-chat.jpg, the question types into the Ask about your health input."
+    },
+    {
+      "id": "l26",
+      "text": "The answer comes back, and the timeline moves to that day.",
+      "beat": "ACT6: the answer arrives and the health-graph timeline navigates to the matching date node."
+    },
+    {
+      "id": "l27",
+      "text": "The daily report opens, and the record is right there, highlighted.",
+      "beat": "ACT6: the daily report opens beside the answer and the matching record is highlighted in teal."
+    },
+    {
+      "id": "l28",
+      "text": "The answer arrives with the record behind it, not just text.",
+      "beat": "ACT6: split view holds: answer text on the left, the full record behind it on the right."
+    },
+    {
+      "id": "l29",
+      "text": "Evidence you can open, verify, and return to whenever you need it.",
+      "beat": "ACT6: the record card lifts forward as a tappable document, evidence held up to the light."
+    },
+    {
+      "id": "l30",
+      "text": "A pulse check: place your fingertip on the sensor, just sixty seconds.",
+      "beat": "ACT7: pulse-measurement.jpg, fingertip on the sensor, the green trace drawing in."
+    },
+    {
+      "id": "l31",
+      "text": "Sixty seven beats per minute, saved right into the day around it.",
+      "beat": "ACT7: Measurement complete, 67 BPM FINGERTIP, the value saves into the day."
+    },
+    {
+      "id": "l32",
+      "text": "Meds, symptoms, sleep, nutrition, all connected around that one moment.",
+      "beat": "ACT7: edges draw from the measurement node to medication, sleep, nutrition and symptom nodes."
+    },
+    {
+      "id": "l33",
+      "text": "A measurement becomes context the moment it is saved to the day.",
+      "beat": "ACT7: the measurement node pulses once as it lands in the health-graph, context complete."
+    },
+    {
+      "id": "l34",
+      "text": "Each reading joins the day it happened, with everything else logged.",
+      "beat": "ACT7: the timeline scrolls to that day and every logged entry gathers around the reading."
+    },
+    {
+      "id": "l35",
+      "text": "You can also speak out loud, and your history listens back.",
+      "beat": "ACT8: the red voice pulse FAB breathes as a waveform rises over the dark UI."
+    },
+    {
+      "id": "l36",
+      "text": "A quick voice check in, answered from your own records.",
+      "beat": "ACT8: a short voice exchange plays on the ai-chat screen, the answer references your own records."
+    },
+    {
+      "id": "l37",
+      "text": "Every day connected, and every record in context.",
+      "beat": "ACT9: the full health-graph rotates gently, every node lit, calm and complete."
+    },
+    {
+      "id": "l38",
+      "text": "Your health, connected.",
+      "beat": "ACT9: wordmark hold on dark: Your health, connected."
+    },
+    {
+      "id": "l39",
+      "text": "Explore HealthGraph at healthgraph dot shop.",
+      "beat": "ACT9: end card with the HEALTHGRAPH mark and healthgraph.shop, quiet fade."
+    }
+  ]
+}

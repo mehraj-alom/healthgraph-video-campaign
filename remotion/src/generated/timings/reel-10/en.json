@@ -1,0 +1,90 @@
+{
+  "id": "reel-10",
+  "language": "en",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Your records are connected. Your apps usually aren't.",
+      "startFrame": 0,
+      "endFrame": 89,
+      "durationFrames": 89,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "A visit points to a measurement. A medication points to a day.",
+      "startFrame": 97,
+      "endFrame": 205,
+      "durationFrames": 108,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "But the apps holding your data rarely talk to each other.",
+      "startFrame": 213,
+      "endFrame": 300,
+      "durationFrames": 87,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "So the picture stays split.",
+      "startFrame": 308,
+      "endFrame": 357,
+      "durationFrames": 49,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "HealthGraph puts your records in one place.",
+      "startFrame": 365,
+      "endFrame": 438,
+      "durationFrames": 73,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Upload a report. Log a pulse. Note a symptom.",
+      "startFrame": 446,
+      "endFrame": 545,
+      "durationFrames": 99,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "It connects them into one graph.",
+      "startFrame": 553,
+      "endFrame": 612,
+      "durationFrames": 59,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "The health graph shows connections that were always there.",
+      "startFrame": 620,
+      "endFrame": 709,
+      "durationFrames": 89,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "One history. Not twenty open tabs.",
+      "startFrame": 717,
+      "endFrame": 794,
+      "durationFrames": 77,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Explore HealthGraph.",
+      "startFrame": 802,
+      "endFrame": 840,
+      "durationFrames": 38,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 840,
+  "voiceSeconds": 28
+}

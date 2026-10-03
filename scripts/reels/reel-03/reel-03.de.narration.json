@@ -1,0 +1,24 @@
+{
+  "id": "reel-03",
+  "language": "de",
+  "concept": "kein-tracker",
+  "cluster": "A",
+  "hook": "Das ist kein weiterer Gesundheitstracker.",
+  "cta": "Entdecke HealthGraph.",
+  "thumbnail": "Kein weiterer Tracker",
+  "caption": "Ein Tracker zählt eine Sache. HealthGraph hält stattdessen den Faden: der Besuch neben dem Puls, der Puls neben dem Tag. Nicht isolierte Zahlen, sondern dein Gesundheitsverlauf als verbundener Kontext – wächst mit, wie du lebst. Wellness-Informationen, kein medizinischer Rat. Kostenlos · DSGVO-konform · Ohne Werbung. Entdecke HealthGraph auf healthgraph.shop. #gesundheit #gesundheitsapp #gesundheitsverlauf #kontext #digitalegesundheit #persönlichegesundheit #datenschutz #wohlbefinden #sichsorgen #eigendaten",
+  "lines": [
+    { "id": "l1", "text": "Das ist kein weiterer Gesundheitstracker.", "beat": "Titelkarte mit Wortmarke, ruhige Haltedauer" },
+    { "id": "l2", "text": "Ein Tracker zählt immer nur eine Sache.", "beat": "Einzelwerte Labels treiben isoliert vorbei" },
+    { "id": "l3", "text": "Schlaf hier, Essen da, Schritte woanders.", "beat": "Labels SLEEP, FOOD, STEPS treiben getrennt" },
+    { "id": "l4", "text": "Er zeigt dir, wie es heute steht.", "beat": "daily-report-Karte zeigt die Tageszusammenfassung" },
+    { "id": "l5", "text": "Er zeigt selten, wo dein Weg bisher ging.", "beat": "Karte allein, keine Nachbarn, langsames Herauszoomen" },
+    { "id": "l6", "text": "Hier entsteht stattdessen ein verbundener Verlauf.", "beat": "Übergang: Fragmente rücken aneinander" },
+    { "id": "l7", "text": "Jeder Eintrag steht direkt neben den anderen.", "beat": "health-graph screen: benachbarte Knoten mit kurzen Kanten" },
+    { "id": "l8", "text": "Der Besuch verbindet sich mit dem Puls.", "beat": "health-graph: Kante vom Visit-Knoten zum Heart-Knoten zeichnet sich" },
+    { "id": "l9", "text": "Der Puls mit dem Tag, an dem er war.", "beat": "health-graph: Kante vom Heart-Knoten zu den Sleep- und Tagesknoten" },
+    { "id": "l10", "text": "Du siehst deine Geschichte als einen Faden.", "beat": "health-graph: Ziehen durch die Zeit, der Graph wandert" },
+    { "id": "l11", "text": "Der Unterschied: Zusammenhang statt bloßem Zählen.", "beat": "Hineinzoomen auf den vollständigen Graphen, 12 Knoten, 22 Verbindungen" },
+    { "id": "l12", "text": "Entdecke HealthGraph.", "beat": "Endkarte mit Wortmarke und CTA" }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "reel-08",
+  "language": "en",
+  "concept": "daily-report-opening",
+  "cluster": "C",
+  "hook": "What happened to my health on Tuesday?",
+  "cta": "Explore the health diary at healthgraph.shop.",
+  "thumbnail": "A full day, one page",
+  "caption": "Every day deserves a report. The HealthGraph daily report opens like a paper card: pulse 59 BPM, fair, at 5:14 PM; fingertip 61 BPM; eight entries logged; six logs one tap away. No scrolling through apps, one page per day, in order. #HealthGraph #DailyReport #HealthDiary #HealthHistory #Pulse #SelfTracking #HealthData #Wellness #Longitudinal #PersonalData\nExplore the health diary at healthgraph.shop.",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "What happened to my health on Tuesday?",
+      "beat": "Question overlays the dimmed daily-report list; the cream paper card 3 OCT Today waits behind, slightly out of focus"
+    },
+    {
+      "id": "l2",
+      "text": "On HealthGraph, the answer is a daily report.",
+      "beat": "The real daily-report paper card, 3 OCT Today, Daily Report Saturday October 3, lifts and faces the camera; user name cropped"
+    },
+    {
+      "id": "l3",
+      "text": "Open it, and the day lays itself out.",
+      "beat": "The paper report opens with a page motion, revealing the real daily-report layout"
+    },
+    {
+      "id": "l4",
+      "text": "Pulse: 59 beats per minute, fair, at 5:14 PM.",
+      "beat": "Focus on the real Pulse 59 BPM Fair 5:14 PM line on the open paper card"
+    },
+    {
+      "id": "l5",
+      "text": "Plus a fingertip reading: 61 beats, also fair.",
+      "beat": "Focus slides to the real ALSO Pulse Fingertip 61 BPM Fair line, same open report"
+    },
+    {
+      "id": "l6",
+      "text": "Eight entries were logged that day.",
+      "beat": "Top stats settle in above the card: 8 entries logged, 0 records, 0 observations, from the real daily-report screen"
+    },
+    {
+      "id": "l7",
+      "text": "Six logs sit behind it, one tap away.",
+      "beat": "Footer Log ×6, tap to open gets tapped; a soft ring pulse confirms the tap"
+    },
+    {
+      "id": "l8",
+      "text": "No scrolling through apps. One page per day.",
+      "beat": "Quick pass over the real daily-report list tabs All, Daily Logs, Records, Symptoms, then back to the single card"
+    },
+    {
+      "id": "l9",
+      "text": "That's what a day of health looks like, told in full.",
+      "beat": "The open paper report holds centered, October 2026, 1 of 1 header visible, warm light on the cream card"
+    },
+    {
+      "id": "l10",
+      "text": "Explore the health diary at healthgraph.shop.",
+      "beat": "End card: CTA over the softly focused daily-report paper card"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "reel-09",
+  "import": "Reel09",
+  "thumbnailImport": "Thumbnail09",
+  "compositions": [
+    {
+      "name": "Reel09En",
+      "lang": "en",
+      "tailFrames": 90,
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "name": "Reel09De",
+      "lang": "de",
+      "tailFrames": 90,
+      "width": 1080,
+      "height": 1920
+    }
+  ],
+  "thumbnail": {
+    "name": "Reel09Thumb",
+    "width": 1080,
+    "height": 1080
+  }
+}

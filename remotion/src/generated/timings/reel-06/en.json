@@ -1,0 +1,90 @@
+{
+  "id": "reel-06",
+  "language": "en",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "You forgot when you uploaded that report?",
+      "startFrame": 0,
+      "endFrame": 61,
+      "durationFrames": 61,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "So you ask, instead of digging through files.",
+      "startFrame": 69,
+      "endFrame": 153,
+      "durationFrames": 84,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Two AI messages a month are free.",
+      "startFrame": 161,
+      "endFrame": 221,
+      "durationFrames": 60,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "The answer comes with the date.",
+      "startFrame": 229,
+      "endFrame": 276,
+      "durationFrames": 47,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "The timeline slides over to that day.",
+      "startFrame": 284,
+      "endFrame": 355,
+      "durationFrames": 71,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "The daily page opens on its own.",
+      "startFrame": 363,
+      "endFrame": 419,
+      "durationFrames": 56,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "And the evidence is highlighted right there.",
+      "startFrame": 427,
+      "endFrame": 497,
+      "durationFrames": 70,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Mood, very good. Sleep, seven hours.",
+      "startFrame": 505,
+      "endFrame": 591,
+      "durationFrames": 86,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Every answer points back to a place in your history.",
+      "startFrame": 599,
+      "endFrame": 683,
+      "durationFrames": 84,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Ask your records.",
+      "startFrame": 691,
+      "endFrame": 725,
+      "durationFrames": 34,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 725,
+  "voiceSeconds": 24.167
+}

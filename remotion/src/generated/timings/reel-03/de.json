@@ -1,0 +1,106 @@
+{
+  "id": "reel-03",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Das ist kein weiterer Gesundheitstracker.",
+      "startFrame": 0,
+      "endFrame": 67,
+      "durationFrames": 67,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Ein Tracker zählt immer nur eine Sache.",
+      "startFrame": 75,
+      "endFrame": 135,
+      "durationFrames": 60,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Schlaf hier, Essen da, Schritte woanders.",
+      "startFrame": 143,
+      "endFrame": 225,
+      "durationFrames": 82,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Er zeigt dir, wie es heute steht.",
+      "startFrame": 233,
+      "endFrame": 292,
+      "durationFrames": 59,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Er zeigt selten, wo dein Weg bisher ging.",
+      "startFrame": 300,
+      "endFrame": 370,
+      "durationFrames": 70,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Hier entsteht stattdessen ein verbundener Verlauf.",
+      "startFrame": 378,
+      "endFrame": 452,
+      "durationFrames": 74,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Jeder Eintrag steht direkt neben den anderen.",
+      "startFrame": 460,
+      "endFrame": 528,
+      "durationFrames": 68,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Der Besuch verbindet sich mit dem Puls.",
+      "startFrame": 536,
+      "endFrame": 593,
+      "durationFrames": 57,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Der Puls mit dem Tag, an dem er war.",
+      "startFrame": 601,
+      "endFrame": 657,
+      "durationFrames": 56,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Du siehst deine Geschichte als einen Faden.",
+      "startFrame": 665,
+      "endFrame": 724,
+      "durationFrames": 59,
+      "gapBefore": 8
+    },
+    {
+      "id": "l11",
+      "text": "Der Unterschied: Zusammenhang statt bloßem Zählen.",
+      "startFrame": 732,
+      "endFrame": 816,
+      "durationFrames": 84,
+      "gapBefore": 8
+    },
+    {
+      "id": "l12",
+      "text": "Entdecke HealthGraph.",
+      "startFrame": 824,
+      "endFrame": 862,
+      "durationFrames": 38,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 862,
+  "voiceSeconds": 28.733
+}

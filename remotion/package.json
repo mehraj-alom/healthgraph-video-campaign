@@ -1,0 +1,32 @@
+{
+  "name": "healthgraph-video-campaign",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HealthGraph launch video campaign — 1 discovery film + 20 reels x EN/DE",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render",
+    "still": "remotion still",
+    "gen": "node scripts/gen.mjs",
+    "tts": "node scripts/tts.mjs",
+    "audio": "node scripts/gen-audio.mjs",
+    "qa": "node scripts/qa.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.529",
+    "@remotion/google-fonts": "4.0.529",
+    "@remotion/three": "4.0.529",
+    "@remotion/transitions": "4.0.529",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.529",
+    "three": "0.171.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "@types/three": "0.171.0",
+    "@types/web": "0.0.166",
+    "typescript": "5.9.3"
+  }
+}

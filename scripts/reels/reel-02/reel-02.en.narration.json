@@ -1,0 +1,22 @@
+{
+  "id": "reel-02",
+  "language": "en",
+  "concept": "ask-your-records",
+  "cluster": "B",
+  "hook": "What if you could ask your own health history?",
+  "cta": "Ask your records.",
+  "thumbnail": "Ask your health history",
+  "caption": "What if you could ask your own health history? Ask when you uploaded your blood report, and HealthGraph takes you to the entry: the date, the context, the day it happened. Your records, queryable, with the source behind every answer. Wellness info only, not medical advice. Explore HealthGraph at healthgraph.shop. #healthgraph #askyourrecords #healthhistory #digitalhealth #healthdata #personalhealth #healthapp #selftracking #healthjournal #connectedhistory",
+  "lines": [
+    { "id": "l1", "text": "What if you could ask your own health history?", "beat": "Dark title card, chat input field fades in" },
+    { "id": "l2", "text": "When did I upload my blood report?", "beat": "ai-chat screen: question typed into the 'Ask about your health' input" },
+    { "id": "l3", "text": "It reads your own history to answer.", "beat": "ai-chat screen: answer bubble appears, 'Wellness info only' note visible" },
+    { "id": "l4", "text": "It gives the date, not a guess.", "beat": "Answer highlights the date, push-in on it" },
+    { "id": "l5", "text": "And it can take you there.", "beat": "Chat screen collapses, transition into health-graph" },
+    { "id": "l6", "text": "Watch it open the day in your timeline.", "beat": "daily-report card '3 OCT Today' opens, tabs slide in" },
+    { "id": "l7", "text": "The entry is right there, in context.", "beat": "daily-report: entry highlighted, footer 'Log x6, tap to open'" },
+    { "id": "l8", "text": "No more hunting through folders by hand.", "beat": "Ghosted folder icons dissolve behind the open record" },
+    { "id": "l9", "text": "The answer comes with the record behind it.", "beat": "Split view: answer on left, record on right, linked by a line" },
+    { "id": "l10", "text": "Ask your records.", "beat": "End card with wordmark and CTA" }
+  ]
+}

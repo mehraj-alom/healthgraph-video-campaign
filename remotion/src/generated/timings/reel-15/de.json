@@ -1,0 +1,98 @@
+{
+  "id": "reel-15",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Und wenn dein Gesundheitstagebuch antworten könnte?",
+      "startFrame": 0,
+      "endFrame": 76,
+      "durationFrames": 76,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Kein Tippen, kein Suchen in Ordnern.",
+      "startFrame": 84,
+      "endFrame": 144,
+      "durationFrames": 60,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Du sagst es einfach, über den kleinen roten Puls-Button.",
+      "startFrame": 152,
+      "endFrame": 251,
+      "durationFrames": 99,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Du fragst: Wie habe ich diese Woche geschlafen?",
+      "startFrame": 259,
+      "endFrame": 333,
+      "durationFrames": 74,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Dein Tagebuch hört zu und schaut nach.",
+      "startFrame": 341,
+      "endFrame": 403,
+      "durationFrames": 62,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Es wendet sich an deine eigenen Einträge.",
+      "startFrame": 411,
+      "endFrame": 478,
+      "durationFrames": 67,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Die Antwort kommt leise und verständlich zurück.",
+      "startFrame": 486,
+      "endFrame": 558,
+      "durationFrames": 72,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Immer aus deiner eigenen Geschichte, nicht aus freien Vermutungen.",
+      "startFrame": 566,
+      "endFrame": 666,
+      "durationFrames": 100,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Gesundheitsinfo, aber keine medizinische Beratung.",
+      "startFrame": 674,
+      "endFrame": 764,
+      "durationFrames": 90,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Das Tagebuch weiß, was du eingetragen hast.",
+      "startFrame": 772,
+      "endFrame": 851,
+      "durationFrames": 79,
+      "gapBefore": 8
+    },
+    {
+      "id": "l11",
+      "text": "Frag deine Aufzeichnungen.",
+      "startFrame": 859,
+      "endFrame": 899,
+      "durationFrames": 40,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 899,
+  "voiceSeconds": 29.967
+}

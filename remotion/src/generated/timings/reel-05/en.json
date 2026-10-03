@@ -1,0 +1,106 @@
+{
+  "id": "reel-05",
+  "language": "en",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Your health history has dates. Why shouldn't you see it like a story?",
+      "startFrame": 0,
+      "endFrame": 110,
+      "durationFrames": 110,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Each day becomes its own paper report in your daily health diary.",
+      "startFrame": 118,
+      "endFrame": 219,
+      "durationFrames": 101,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Not a folder of files, but a stack you can flip through.",
+      "startFrame": 227,
+      "endFrame": 320,
+      "durationFrames": 93,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Scroll through the stack.",
+      "startFrame": 328,
+      "endFrame": 362,
+      "durationFrames": 34,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Pick any date.",
+      "startFrame": 370,
+      "endFrame": 391,
+      "durationFrames": 21,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "The report rises from the stack.",
+      "startFrame": 399,
+      "endFrame": 458,
+      "durationFrames": 59,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "It opens, and the day shows itself.",
+      "startFrame": 466,
+      "endFrame": 533,
+      "durationFrames": 67,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Pulse: 59 beats per minute, fair, at 5:14 PM.",
+      "startFrame": 541,
+      "endFrame": 679,
+      "durationFrames": 138,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Then the fingertip reading: 61 beats, the same day.",
+      "startFrame": 687,
+      "endFrame": 791,
+      "durationFrames": 104,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Six logs sit behind it, one tap away.",
+      "startFrame": 799,
+      "endFrame": 881,
+      "durationFrames": 82,
+      "gapBefore": 8
+    },
+    {
+      "id": "l11",
+      "text": "Every day on its own page, in the right order.",
+      "startFrame": 889,
+      "endFrame": 975,
+      "durationFrames": 86,
+      "gapBefore": 8
+    },
+    {
+      "id": "l12",
+      "text": "Explore the health diary.",
+      "startFrame": 983,
+      "endFrame": 1034,
+      "durationFrames": 51,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 1034,
+  "voiceSeconds": 34.467
+}

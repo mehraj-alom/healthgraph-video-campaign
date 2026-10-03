@@ -1,0 +1,24 @@
+{
+  "id": "reel-04",
+  "language": "de",
+  "concept": "dokument-zur-zeitleiste",
+  "cluster": "D",
+  "hook": "Stell dir vor, deine Arztunterlagen werden Teil deiner Zeitleiste.",
+  "cta": "Schau, wie sich dein Gesundheitsverlauf verbinden könnte.",
+  "thumbnail": "Vom Dokument zur Zeitleiste",
+  "caption": "Ein Befund ist mehr als eine Datei: Er hält einen Moment deiner Gesundheit fest. Mit HealthGraph wird er zu einem strukturierten Eintrag in deinem Graphen – mit Datum und seinem Platz in der Zeit. Vom Dokument zur Zeitleiste, deine Unterlagen werden Teil deines Verlaufs. Kostenlos · DSGVO-konform · Ohne Werbung. Entdecke HealthGraph auf healthgraph.shop. #gesundheit #gesundheitsapp #arztunterlagen #gesundheitsverlauf #zeitstrahl #digitalegesundheit #dokumentation #datenschutz #persönlichegesundheit #sichsorgen",
+  "lines": [
+    { "id": "l1", "text": "Stell dir vor, deine Arztunterlagen werden Teil deiner Zeitleiste.", "beat": "Titelkarte: Dokumente treiben im Dunkeln" },
+    { "id": "l2", "text": "Ein Befund ist mehr als eine Datei.", "beat": "Nahaufnahme eines Dokuments, es löst sich vom Haufen ab" },
+    { "id": "l3", "text": "Er hält einen Moment deiner Gesundheit fest.", "beat": "Dokument pausiert, wird sanft hervorgehoben" },
+    { "id": "l4", "text": "Lade ihn in deine Aufzeichnungen hoch.", "beat": "records upload screen: PDF fällt hinein, teal Upload-Button" },
+    { "id": "l5", "text": "Die App liest die strukturierten Teile heraus.", "beat": "Extraktion: Hervorhebungsband über dem Dokumententext" },
+    { "id": "l6", "text": "Datum, Art, Wert: ein sauberer Eintrag.", "beat": "Strukturierte Felder erscheinen als Daten-Labels: Datum, Art, Wert" },
+    { "id": "l7", "text": "Aus dem Dokument wird ein Knoten im Graphen.", "beat": "health-graph screen: neuer Knoten erscheint, 'Tap a node for links'" },
+    { "id": "l8", "text": "Und der Knoten bekommt seinen Platz in der Zeit.", "beat": "Knoten rutscht auf die Zeitachse, 'Drag to travel through time' sichtbar" },
+    { "id": "l9", "text": "Neben dem Besuch, dem Puls, dem Schlaf.", "beat": "health-graph-Umgebung: Visit-, Heart- und Sleep-Knoten in der Nähe" },
+    { "id": "l10", "text": "Ziehe durch die Zeit: der Tag ist jetzt verbunden.", "beat": "Kamera zieht über den Graphen durch die Zeit" },
+    { "id": "l11", "text": "Von Papier zu einem Teil deiner Geschichte.", "beat": "Dokument wird zu seinem Knoten, unterstützende 3D-Bewegung" },
+    { "id": "l12", "text": "Schau, wie sich dein Gesundheitsverlauf verbinden könnte.", "beat": "Endkarte mit Wortmarke und CTA" }
+  ]
+}

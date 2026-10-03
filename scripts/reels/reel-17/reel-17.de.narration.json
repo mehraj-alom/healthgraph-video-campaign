@@ -1,0 +1,22 @@
+{
+  "id": "reel-17",
+  "language": "de",
+  "concept": "one-place-montage",
+  "cluster": "A",
+  "hook": "Ein Ort für die Bausteine deiner Gesundheit.",
+  "cta": "Erlebe HealthGraph.",
+  "thumbnail": "Deine Gesundheit an einem Ort",
+  "caption": "Deine Gesundheitshistorie gehört nicht in fünf verschiedene Apps. Schlaf, Essen, Medikamente, Beschwerden, Messungen, Dokumente, an einem Ort, der sie wirklich verbindet. Erlebe HealthGraph. #healthgraph #gesundheitstracking #selftracking #gesundheitstagebuch #wellnessjournal #digitaldiary #pulsemessung #healthtech #bewusstesTracking #vernetzteGesundheit",
+  "lines": [
+    { "id": "l1", "text": "Ein Ort für die Bausteine deiner Gesundheit.", "beat": "explore grid montage: 20 health-area tiles ripple into place over warm charcoal, healthgraph graph-pulse mark settles top, voice FAB pulse visible" },
+    { "id": "l2", "text": "Schlaf. Ernährung. Medikamente. Beschwerden. Messungen. Dokumente.", "beat": "fast succession, one tile per word: sleep, nutrition ring, medication card, symptom map, pulse result, document cards, each a masked reveal" },
+    { "id": "l3", "text": "Normalerweise liegen sie verstreut in fünf verschiedenen Apps.", "beat": "fragmented objects float: PDF, NOTE, MEDICATION, SYMPTOM, MEASUREMENT, MEAL cards drift apart in depth layers" },
+    { "id": "l4", "text": "HealthGraph hält sie nebeneinander.", "beat": "all fragment cards are pulled into one HEALTHGRAPH hub node, green edges draw between them" },
+    { "id": "l5", "text": "Der Puls am Finger, gemessen, gespeichert, synchronisiert.", "beat": "pulse-measurement screen: green sensor trace draws, 67 BPM FINGERTIP gauge at 58 percent, Saved and synced chip" },
+    { "id": "l6", "text": "Geschätzte Kalorien aus den Scans, klar als Schätzung markiert.", "beat": "nutrition-calories screen: ring fills to 977 of 3000 kcal, Scans estimate. Not measured, not a target. line" },
+    { "id": "l7", "text": "Stimmung, Schlaf und Mahlzeiten in einem Tagesprotokoll.", "beat": "daily-log screen: mood Very good, sleep 7h, recent history row with 3 events" },
+    { "id": "l8", "text": "Dokumente einmal hochgeladen, dann immer dabei.", "beat": "records-upload screen: teal upload button, PDF PNG JPG file cards dock into Past uploads" },
+    { "id": "l9", "text": "Die Timeline zeigt, wie sich jeder Tag mit dem nächsten verbindet.", "beat": "health-graph screen: camera drags through time across 12 nodes and 22 connections, legend Event Visit Heart Sleep Nutrition" },
+    { "id": "l10", "text": "Erlebe HealthGraph.", "beat": "end card: healthgraph wordmark centered, Erlebe HealthGraph" }
+  ]
+}

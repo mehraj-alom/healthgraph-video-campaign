@@ -1,0 +1,98 @@
+{
+  "id": "reel-15",
+  "language": "en",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "What if your health journal could answer back?",
+      "startFrame": 0,
+      "endFrame": 63,
+      "durationFrames": 63,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "No typing. No scrolling through files.",
+      "startFrame": 71,
+      "endFrame": 146,
+      "durationFrames": 75,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "You just speak, through the small red pulse button.",
+      "startFrame": 154,
+      "endFrame": 243,
+      "durationFrames": 89,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "You ask: how did I sleep this week?",
+      "startFrame": 251,
+      "endFrame": 321,
+      "durationFrames": 70,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Your journal listens, then looks it up.",
+      "startFrame": 329,
+      "endFrame": 390,
+      "durationFrames": 61,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "It turns to your own records.",
+      "startFrame": 398,
+      "endFrame": 447,
+      "durationFrames": 49,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "The answer comes back as calm, simple text.",
+      "startFrame": 455,
+      "endFrame": 529,
+      "durationFrames": 74,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Always from your history, not a chatbot guessing.",
+      "startFrame": 537,
+      "endFrame": 625,
+      "durationFrames": 88,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Wellness info only, not medical advice.",
+      "startFrame": 633,
+      "endFrame": 719,
+      "durationFrames": 86,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "The journal remembers what you logged.",
+      "startFrame": 727,
+      "endFrame": 781,
+      "durationFrames": 54,
+      "gapBefore": 8
+    },
+    {
+      "id": "l11",
+      "text": "Ask your records.",
+      "startFrame": 789,
+      "endFrame": 823,
+      "durationFrames": 34,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 823,
+  "voiceSeconds": 27.433
+}

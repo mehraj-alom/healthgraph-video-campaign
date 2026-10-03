@@ -1,0 +1,72 @@
+{
+  "id": "reel-05",
+  "language": "en",
+  "concept": "daily-health-diary",
+  "cluster": "C",
+  "hook": "Your health history has dates. Why shouldn't you see it like a story?",
+  "cta": "Explore the health diary.",
+  "thumbnail": "Your health as a story",
+  "caption": "Your health history is full of dates. In the daily health diary, each date becomes a paper report you can flip through, open and read in full: pulse 59 BPM at 5:14 PM, fingertip 61 BPM, six logs one tap away. A physical archive of days, not a list of cards. #HealthGraph #HealthDiary #DailyReport #HealthHistory #SelfTracking #Wellness #HealthData #Longitudinal #PersonalData #MindfulHealth\nExplore the health diary.",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Your health history has dates. Why shouldn't you see it like a story?",
+      "beat": "Establish the physical archive: a stack of cream paper daily reports (daily-report card style) rises in depth, explicitly a paper archive, not a card list"
+    },
+    {
+      "id": "l2",
+      "text": "Each day becomes its own paper report in your daily health diary.",
+      "beat": "Cut to the stack: many cream paper pages, each with a date spine on its edge, warm paper texture"
+    },
+    {
+      "id": "l3",
+      "text": "Not a folder of files, but a stack you can flip through.",
+      "beat": "Stack continues on screen: paper reports, physically stacked with depth, deliberately no card list, no app grid"
+    },
+    {
+      "id": "l4",
+      "text": "Scroll through the stack.",
+      "beat": "Fingers scroll the paper-report stack; pages slide past with soft page turns"
+    },
+    {
+      "id": "l5",
+      "text": "Pick any date.",
+      "beat": "Stack pauses on the 3 OCT page; the selected paper report lifts out of the stack"
+    },
+    {
+      "id": "l6",
+      "text": "The report rises from the stack.",
+      "beat": "Selected paper report rises out of the stack toward the camera, other pages settling behind"
+    },
+    {
+      "id": "l7",
+      "text": "It opens, and the day shows itself.",
+      "beat": "Paper report opens like a page, revealing the real daily-report card: 3 OCT Today, Daily Report, Saturday, October 3; crop the user name"
+    },
+    {
+      "id": "l8",
+      "text": "Pulse: 59 beats per minute, fair, at 5:14 PM.",
+      "beat": "Open report: focus on the real Pulse 59 BPM Fair 5:14 PM line on the daily-report card"
+    },
+    {
+      "id": "l9",
+      "text": "Then the fingertip reading: 61 beats, the same day.",
+      "beat": "Focus slides down to the real ALSO Pulse Fingertip 61 BPM Fair line on the same open report"
+    },
+    {
+      "id": "l10",
+      "text": "Six logs sit behind it, one tap away.",
+      "beat": "Footer Log ×6, tap to open glints on the daily-report card, then dims back"
+    },
+    {
+      "id": "l11",
+      "text": "Every day on its own page, in the right order.",
+      "beat": "Pull back to the full paper-report stack: the archive, dates in order, the opened day visible on top"
+    },
+    {
+      "id": "l12",
+      "text": "Explore the health diary.",
+      "beat": "End card: CTA over the softly focused paper-report stack, warm charcoal background"
+    }
+  ]
+}

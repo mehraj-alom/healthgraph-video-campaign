@@ -1,0 +1,106 @@
+{
+  "id": "reel-04",
+  "language": "en",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Imagine your medical documents actually becoming part of your timeline.",
+      "startFrame": 0,
+      "endFrame": 119,
+      "durationFrames": 119,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "A report is more than a file.",
+      "startFrame": 127,
+      "endFrame": 178,
+      "durationFrames": 51,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "It holds a moment of your health.",
+      "startFrame": 186,
+      "endFrame": 246,
+      "durationFrames": 60,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Upload it to your records.",
+      "startFrame": 254,
+      "endFrame": 299,
+      "durationFrames": 45,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "The app reads the structured parts.",
+      "startFrame": 307,
+      "endFrame": 368,
+      "durationFrames": 61,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Date, type, value: a clean entry.",
+      "startFrame": 376,
+      "endFrame": 468,
+      "durationFrames": 92,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "The document becomes a node in your graph.",
+      "startFrame": 476,
+      "endFrame": 543,
+      "durationFrames": 67,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "And that node takes its place in time.",
+      "startFrame": 551,
+      "endFrame": 613,
+      "durationFrames": 62,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Next to the visit, the pulse, the sleep.",
+      "startFrame": 621,
+      "endFrame": 692,
+      "durationFrames": 71,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Drag across time: the day is now linked.",
+      "startFrame": 700,
+      "endFrame": 773,
+      "durationFrames": 73,
+      "gapBefore": 8
+    },
+    {
+      "id": "l11",
+      "text": "From paper to part of your history.",
+      "startFrame": 781,
+      "endFrame": 835,
+      "durationFrames": 54,
+      "gapBefore": 8
+    },
+    {
+      "id": "l12",
+      "text": "See how your health history could connect.",
+      "startFrame": 843,
+      "endFrame": 909,
+      "durationFrames": 66,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 909,
+  "voiceSeconds": 30.3
+}

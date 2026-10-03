@@ -1,0 +1,82 @@
+{
+  "id": "reel-18",
+  "language": "en",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Don't just get an AI answer. Find the record behind it.",
+      "startFrame": 0,
+      "endFrame": 99,
+      "durationFrames": 99,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Ask your records a real question, like how you slept this week.",
+      "startFrame": 107,
+      "endFrame": 219,
+      "durationFrames": 112,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "The answer comes back in plain language.",
+      "startFrame": 227,
+      "endFrame": 294,
+      "durationFrames": 67,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "But every answer points back to where it came from.",
+      "startFrame": 302,
+      "endFrame": 383,
+      "durationFrames": 81,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "The sleep log, the daily log, the entries behind the claim.",
+      "startFrame": 391,
+      "endFrame": 505,
+      "durationFrames": 114,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "You can open the source and check it yourself.",
+      "startFrame": 513,
+      "endFrame": 580,
+      "durationFrames": 67,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "That's the difference between an answer and evidence.",
+      "startFrame": 588,
+      "endFrame": 665,
+      "durationFrames": 77,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Context, not just a chat reply.",
+      "startFrame": 673,
+      "endFrame": 744,
+      "durationFrames": 71,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Ask your records.",
+      "startFrame": 752,
+      "endFrame": 788,
+      "durationFrames": 36,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 788,
+  "voiceSeconds": 26.267
+}

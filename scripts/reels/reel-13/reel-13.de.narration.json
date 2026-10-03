@@ -1,0 +1,62 @@
+{
+  "id": "reel-13",
+  "language": "de",
+  "concept": "messung-kontext",
+  "cluster": "E",
+  "hook": "Deine Gesundheitsgeschichte sollte den Kontext im Blick behalten.",
+  "cta": "Sieh dir an, wie deine Gesundheitsgeschichte verbunden werden könnte.",
+  "thumbnail": "Gesundheitsdaten behalten ihren Kontext",
+  "caption": "Eine einzelne Messung verblasst schnell. Dieselbe Zahl mit Datum, Einträgen und Unterlagen bleibt verständlich. HealthGraph verbindet jede Information mit dem Kontext, in dem sie entstanden ist, damit deine Geschichte wächst, statt verstreut zu bleiben. Sieh dir an, wie deine Gesundheitsgeschichte verbunden werden könnte. #HealthGraph #Gesundheitsdaten #Gesundheitstracking #Gesundheitsgeschichte #DigitaleGesundheit #Gesundheitstagebuch #Tagebuch #Wellness #Gesundheitswissen",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Deine Gesundheitsgeschichte sollte den Kontext im Blick behalten.",
+      "beat": "Einstieg auf dem Pulsmess-Screen, grüner Sensorenverlauf zeichnet sich; ein Datumsstempel '3. OKT' setzt sich neben 67 BPM · FINGERTIP"
+    },
+    {
+      "id": "l2",
+      "text": "Eine einzelne Zahl, sagen wir 67 Schläge pro Minute, verblasst schnell.",
+      "beat": "die Ergebniskarte mit 67 BPM wird isoliert, alles andere dimmt ab, Kamera steht"
+    },
+    {
+      "id": "l3",
+      "text": "Gemessen wurde sie aber an einem bestimmten Tag.",
+      "beat": "das monospace-Datum '3. OKT' zieht eine feine Linie von der Messung ins Bild"
+    },
+    {
+      "id": "l4",
+      "text": "HealthGraph erinnert sich an die Medikamente, die du an diesem Morgen eingenommen hast.",
+      "beat": "die Medikamentenkarte aus dem Home-Dashboard schiebt sich dazu; eine kontrollierte Kante verbindet sie mit der Messung"
+    },
+    {
+      "id": "l5",
+      "text": "Der tägliche Eintrag von demselben Tag liegt direkt daneben.",
+      "beat": "der Tageslog-Screen (Stimmung 'Sehr gut', Schlaf 7h) dreht sich hinein; die Kante schließt sich zur Messung"
+    },
+    {
+      "id": "l6",
+      "text": "Auch hochgeladene Unterlagen gehören zur selben Geschichte.",
+      "beat": "der Hochladescreen für Unterlagen schließt sich der Gruppe an; die Dokument-Kante vollendet das Motiv"
+    },
+    {
+      "id": "l7",
+      "text": "Jedes Stück bleibt in HealthGraph fest an seinen Kontext verknüpft.",
+      "beat": "die vier Objekte (Messung, Medikament, Tageslog, Dokument) kreisen um einen kleinen Hub-Knoten; Kanten pulsieren"
+    },
+    {
+      "id": "l8",
+      "text": "Zoomst du raus, werden die Verbindungen zu einer Gesundheitsgeschichte.",
+      "beat": "Schnitt zum Health-Graph-Screen '12 nodes · 22 connections'; Kanten zeichnen sich zwischen den Knoten"
+    },
+    {
+      "id": "l9",
+      "text": "Nichts wird abgelegt und vergessen.",
+      "beat": "langes Zurückzoomen über den Health-Graph; ein Knoten wird angeklickt, seine Verbindungen leuchten auf"
+    },
+    {
+      "id": "l10",
+      "text": "Sieh dir an, wie deine Gesundheitsgeschichte verbunden werden könnte.",
+      "beat": "Endkarte auf warmem Charcoal, im Hintergrund die Graphik"
+    }
+  ]
+}

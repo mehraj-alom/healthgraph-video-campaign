@@ -1,0 +1,90 @@
+{
+  "id": "reel-09",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Deine Gesundheit ist keine Tabelle.",
+      "startFrame": 0,
+      "endFrame": 58,
+      "durationFrames": 58,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Keine Zeilen, keine Spalten. Eine Geschichte mit Datum.",
+      "startFrame": 66,
+      "endFrame": 158,
+      "durationFrames": 92,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Jeder Besuch, jede Messung, jeder protokollierte Tag ist Teil deiner Geschichte.",
+      "startFrame": 166,
+      "endFrame": 299,
+      "durationFrames": 133,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "In einer Tabelle versteckt sich diese Geschichte in Zellen.",
+      "startFrame": 307,
+      "endFrame": 391,
+      "durationFrames": 84,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Im Graphen hat sie eine Form.",
+      "startFrame": 399,
+      "endFrame": 443,
+      "durationFrames": 44,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Das ist der Health Graph: zwölf Knoten, zweiundzwanzig Verbindungen.",
+      "startFrame": 451,
+      "endFrame": 574,
+      "durationFrames": 123,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Alle aus deinen eigenen Tagen.",
+      "startFrame": 582,
+      "endFrame": 632,
+      "durationFrames": 50,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Ziehen, um durch die Zeit zu reisen. Reinzoomen auf einen Tag.",
+      "startFrame": 640,
+      "endFrame": 745,
+      "durationFrames": 105,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Denselbe Datenbestand. Jetzt sieht man ihn bewegen.",
+      "startFrame": 753,
+      "endFrame": 846,
+      "durationFrames": 93,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Sieh nach, wie sich dein Gesundheitsverlauf verbinden könnte.",
+      "startFrame": 854,
+      "endFrame": 949,
+      "durationFrames": 95,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 949,
+  "voiceSeconds": 31.633
+}

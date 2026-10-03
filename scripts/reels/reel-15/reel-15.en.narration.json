@@ -1,0 +1,67 @@
+{
+  "id": "reel-15",
+  "language": "en",
+  "concept": "journal-answers",
+  "cluster": "G",
+  "hook": "What if your health journal could answer back?",
+  "cta": "Ask your records.",
+  "thumbnail": "Your journal can answer back",
+  "caption": "No typing, no scrolling. Speak through the small red pulse button, and your journal looks up the answer in your own records. Calm, source-aware, wellness info only, not medical advice. Ask your records. #HealthGraph #VoiceCheckIn #HealthJournal #AskYourRecords #DigitalHealth #HealthData #VoiceUI #WellnessInfo",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "What if your health journal could answer back?",
+      "beat": "the red voice FAB pulses at the bottom of the explore-grid screen; a soft waveform ripple grows from it"
+    },
+    {
+      "id": "l2",
+      "text": "No typing. No scrolling through files.",
+      "beat": "ghost typing bubbles and a scrolling document list dissolve off-screen"
+    },
+    {
+      "id": "l3",
+      "text": "You just speak, through the small red pulse button.",
+      "beat": "close-up on the red voice FAB on its white pill; a thumb taps it, the mic waveform takes over"
+    },
+    {
+      "id": "l4",
+      "text": "You ask: how did I sleep this week?",
+      "beat": "the voice check-in waveform plays; the suggestion 'How did I sleep this week?' types on softly"
+    },
+    {
+      "id": "l5",
+      "text": "Your journal listens, then looks it up.",
+      "beat": "the waveform morphs into a thin search line sweeping across records"
+    },
+    {
+      "id": "l6",
+      "text": "It turns to your own records.",
+      "beat": "ai-chat screen opens; 'How may I Assist you today' header with the user's own records implied behind"
+    },
+    {
+      "id": "l7",
+      "text": "The answer comes back as calm, simple text.",
+      "beat": "an answer bubble types out slowly, referencing the daily-log entries (sleep 7h) as it forms"
+    },
+    {
+      "id": "l8",
+      "text": "Always from your history, not a chatbot guessing.",
+      "beat": "small source chips point back to the daily-log screen and to health-graph nodes"
+    },
+    {
+      "id": "l9",
+      "text": "Wellness info only, not medical advice.",
+      "beat": "the label 'Wellness info only. Not medical advice.' stamps under the answer in small type"
+    },
+    {
+      "id": "l10",
+      "text": "The journal remembers what you logged.",
+      "beat": "camera rests on the ai-chat with the red voice FAB still pulsing quietly"
+    },
+    {
+      "id": "l11",
+      "text": "Ask your records.",
+      "beat": "end card on warm charcoal with the red pulse button glowing beside the CTA"
+    }
+  ]
+}

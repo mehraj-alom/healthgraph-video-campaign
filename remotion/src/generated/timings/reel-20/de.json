@@ -1,0 +1,106 @@
+{
+  "id": "reel-20",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Lernen wir HealthGraph kennen.",
+      "startFrame": 0,
+      "endFrame": 50,
+      "durationFrames": 50,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Deine Gesundheitshistorie ist verstreut: Notizen, Dateien, nur halb erinnerbare Tage.",
+      "startFrame": 58,
+      "endFrame": 220,
+      "durationFrames": 162,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Die Idee ist einfach: verbundener Kontext statt loser Einträge.",
+      "startFrame": 228,
+      "endFrame": 334,
+      "durationFrames": 106,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Starte überall: zwanzig Bereiche auf einem Bildschirm.",
+      "startFrame": 342,
+      "endFrame": 434,
+      "durationFrames": 92,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Der Tagesbericht öffnet den Tag: Puls, Schlaf, Stimmung auf einer Karte.",
+      "startFrame": 442,
+      "endFrame": 573,
+      "durationFrames": 131,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Dokumente bleiben echte Dateien, die du jederzeit abfragen kannst.",
+      "startFrame": 581,
+      "endFrame": 687,
+      "durationFrames": 106,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Puls am Finger messen, dann zusehen, wie er in die Timeline einläuft.",
+      "startFrame": 695,
+      "endFrame": 805,
+      "durationFrames": 110,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Frag deine Aufzeichnungen eine Frage und öffne die Einträge hinter der Antwort.",
+      "startFrame": 813,
+      "endFrame": 940,
+      "durationFrames": 127,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Wenn Tippen zu viel ist, sprich mit dem pulsierenden Button.",
+      "startFrame": 948,
+      "endFrame": 1051,
+      "durationFrames": 103,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Kostenlos, DSGVO-konform, ohne Werbung.",
+      "startFrame": 1059,
+      "endFrame": 1154,
+      "durationFrames": 95,
+      "gapBefore": 8
+    },
+    {
+      "id": "l11",
+      "text": "Deine Gesundheit, verbunden an einem Ort.",
+      "startFrame": 1162,
+      "endFrame": 1239,
+      "durationFrames": 77,
+      "gapBefore": 8
+    },
+    {
+      "id": "l12",
+      "text": "Erfahre mehr auf healthgraph.shop.",
+      "startFrame": 1247,
+      "endFrame": 1311,
+      "durationFrames": 64,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 1311,
+  "voiceSeconds": 43.7
+}

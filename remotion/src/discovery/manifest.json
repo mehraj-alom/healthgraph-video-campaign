@@ -1,0 +1,9 @@
+{
+  "id": "discovery",
+  "import": "Discovery",
+  "thumbnailImport": "DiscoveryThumb",
+  "compositions": [
+    {"name": "DiscoveryEn", "lang": "en", "tailFrames": 180, "width": 1920, "height": 1080}
+  ],
+  "thumbnail": {"name": "DiscoveryThumb", "width": 1920, "height": 1080}
+}

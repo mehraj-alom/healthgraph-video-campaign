@@ -1,0 +1,67 @@
+{
+  "id": "reel-14",
+  "language": "de",
+  "concept": "einen-tag-offnen",
+  "cluster": "C",
+  "hook": "Öffne einen Tag aus deiner Gesundheitsgeschichte.",
+  "cta": "Entdecke das Gesundheitstagebuch.",
+  "thumbnail": "Ein Tag aus dem Tagebuch",
+  "caption": "Deine Gesundheitsgeschichte wie ein Archiv aus Tagen. Öffne einen, und der ganze Tag faltet sich auf einer Seite auf: Puls, Stimmung, Schlaf, alle Einträge an ihrem Platz. Keine Kartenliste, sondern ein Ort, zu dem du zurückkehrst. Entdecke das Gesundheitstagebuch. #Gesundheitstagebuch #HealthGraph #Tagebuch #Gesundheitsgeschichte #Tageslog #Pulsmessung #Gesundheitsdaten #Wellness #Schlaf",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Öffne einen Tag aus deiner Gesundheitsgeschichte.",
+      "beat": "ein Stapel cremefarbener Papiertageberichte liegt auf einer Schreibtischfläche; das Licht trifft die obere Seite"
+    },
+    {
+      "id": "l2",
+      "text": "Es sieht nicht aus wie eine Karte oder eine Liste.",
+      "beat": "ein durchscheinender Kartenlisten-Look löst sich in Papierstruktur auf, Archiv statt Kartenliste"
+    },
+    {
+      "id": "l3",
+      "text": "Es sieht aus wie der Tag selbst.",
+      "beat": "Nahaufnahme der oberen Papierrandkante; '3 OCT Today' liegt im Licht"
+    },
+    {
+      "id": "l4",
+      "text": "Das Papier hebt sich aus dem Stapel.",
+      "beat": "HERO: der Papiertagebericht hebt sich langsam aus dem Stapel, schwebt leicht geneigt über dem Archiv"
+    },
+    {
+      "id": "l5",
+      "text": "Es faltet sich langsam auf, bis der Tag den Bildschirm füllt.",
+      "beat": "die Seite faltet sich auf und wächst, bis sie zwei Drittel des Bildes ausfüllt"
+    },
+    {
+      "id": "l6",
+      "text": "Samstag, der dritte Oktober: Puls, fünfzig neun Schläge pro Minute, um 17 Uhr 14.",
+      "beat": "die Pulszeile füllt sich ein: Pulse 59 BPM · Fair 5:14 PM, in ruhiger Serifenschrift"
+    },
+    {
+      "id": "l7",
+      "text": "Eine zweite Messung: einundsechzig Schläge pro Minute, am Finger gemessen.",
+      "beat": "die zweite Zeile füllt sich: ALSO Pulse — Fingertip 61 BPM · Fair"
+    },
+    {
+      "id": "l8",
+      "text": "Stimmung des Tages: sehr gut. Schlaf: sieben Stunden.",
+      "beat": "der untere Block faltet sich auf: Stimmung 'Very good', Sleep 7h, die '3 events'-Zeile"
+    },
+    {
+      "id": "l9",
+      "text": "Sechs Einträge liegen auf derselben Seite. Tippe, um sie zu öffnen.",
+      "beat": "die Fußzeile 'Log ×6, tap to open' wird getippt; eine kleine Logkarte hebt sich aus der Seite"
+    },
+    {
+      "id": "l10",
+      "text": "Jeder Tag wird zu einer Seite, die du wiederfindest.",
+      "beat": "Kamera fährt über den Stapel zurück; viele Tage, jeder ein Papierblatt"
+    },
+    {
+      "id": "l11",
+      "text": "Entdecke das Gesundheitstagebuch.",
+      "beat": "Endkarte: der Papiertagebericht ruht oben auf dem Stapel, darunter die CTA"
+    }
+  ]
+}

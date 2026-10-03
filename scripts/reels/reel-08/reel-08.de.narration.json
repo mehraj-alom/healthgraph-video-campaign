@@ -1,0 +1,62 @@
+{
+  "id": "reel-08",
+  "language": "de",
+  "concept": "daily-report-opening",
+  "cluster": "C",
+  "hook": "Was ist mit meiner Gesundheit am Dienstag passiert?",
+  "cta": "Entdecke das Gesundheits-Tagebuch auf healthgraph.shop.",
+  "thumbnail": "Ein Tag, eine Seite",
+  "caption": "Jeder Tag verdient einen Bericht. Der Tagesbericht von HealthGraph öffnet sich wie eine Papierkarte: Puls 59 Schläge pro Minute um 17:14 Uhr, Fingermesswert 61, acht Einträge erfasst, sechs Protokolle mit einem Antippen erreichbar. Kein Suchen in verschiedenen Apps, pro Tag eine Seite in der richtigen Reihenfolge. #HealthGraph #Tagesbericht #Gesundheits-Tagebuch #Gesundheitsverlauf #Puls #Wohlbefinden #Selbsterkenntnis #DeineDaten #DigitalGesund #Vorbeugung\nEntdecke das Gesundheits-Tagebuch auf healthgraph.shop.",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Was ist mit meiner Gesundheit am Dienstag passiert?",
+      "beat": "Frage über der gedämpften daily-report-Liste; die cremefarbene Papierkarte 3 Okt. Heute liegt im Hintergrund, leicht unscharf"
+    },
+    {
+      "id": "l2",
+      "text": "Bei HealthGraph ist die Antwort ein Tagesbericht.",
+      "beat": "Die echte daily-report-Papierkarte, 3 Okt. Heute, Tagesbericht, Samstag, 3. Oktober, hebt sich und wendet sich zur Kamera; Nutzername cropped"
+    },
+    {
+      "id": "l3",
+      "text": "Öffne ihn, und der Tag stellt sich vor.",
+      "beat": "Der Papierbericht öffnet sich mit einer Seitenbewegung und zeigt das echte daily-report-Layout"
+    },
+    {
+      "id": "l4",
+      "text": "Puls: 59 Schläge pro Minute, um 17:14 Uhr.",
+      "beat": "Fokus auf die echte Zeile Pulse 59 BPM Fair 5:14 PM auf der geöffneten Papierkarte"
+    },
+    {
+      "id": "l5",
+      "text": "Dazu ein Messwert am Finger: 61 Schläge pro Minute.",
+      "beat": "Fokus gleitet auf die echte Zeile ALSO Pulse Fingertip 61 BPM Fair im selben Bericht"
+    },
+    {
+      "id": "l6",
+      "text": "An diesem Tag: acht Einträge erfasst.",
+      "beat": "Die oberen Werte rücken über die Karte ein: 8 entries logged, 0 records, 0 observations, vom echten daily-report-Screen"
+    },
+    {
+      "id": "l7",
+      "text": "Sechs Protokolle liegen dahinter, ein Antippen entfernt.",
+      "beat": "Fußzeile Log ×6, tap to open wird angetippt; ein weicher Ring-Puls bestätigt den Tipp"
+    },
+    {
+      "id": "l8",
+      "text": "Kein Suchen in verschiedenen Apps. Pro Tag eine Seite.",
+      "beat": "Kurzer Blick über die Tabs All, Daily Logs, Records, Symptoms der echten daily-report-Liste, dann zurück zur einzelnen Karte"
+    },
+    {
+      "id": "l9",
+      "text": "So sieht ein Gesundheitstag in voller Länge aus.",
+      "beat": "Die geöffnete Papierkarte liegt mittig, Header October 2026, 1 of 1 sichtbar, warmes Licht auf der cremefarbenen Karte"
+    },
+    {
+      "id": "l10",
+      "text": "Entdecke das Gesundheits-Tagebuch auf healthgraph.shop.",
+      "beat": "Endkarte: CTA über der weich geblürten daily-report-Papierkarte"
+    }
+  ]
+}

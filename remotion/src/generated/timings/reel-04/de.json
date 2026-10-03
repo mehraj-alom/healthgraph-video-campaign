@@ -1,0 +1,106 @@
+{
+  "id": "reel-04",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Stell dir vor, deine Arztunterlagen werden Teil deiner Zeitleiste.",
+      "startFrame": 0,
+      "endFrame": 113,
+      "durationFrames": 113,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Ein Befund ist mehr als eine Datei.",
+      "startFrame": 121,
+      "endFrame": 185,
+      "durationFrames": 64,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Er hält einen Moment deiner Gesundheit fest.",
+      "startFrame": 193,
+      "endFrame": 257,
+      "durationFrames": 64,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Lade ihn in deine Aufzeichnungen hoch.",
+      "startFrame": 265,
+      "endFrame": 321,
+      "durationFrames": 56,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Die App liest die strukturierten Teile heraus.",
+      "startFrame": 329,
+      "endFrame": 401,
+      "durationFrames": 72,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Datum, Art, Wert: ein sauberer Eintrag.",
+      "startFrame": 409,
+      "endFrame": 490,
+      "durationFrames": 81,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Aus dem Dokument wird ein Knoten im Graphen.",
+      "startFrame": 498,
+      "endFrame": 568,
+      "durationFrames": 70,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Und der Knoten bekommt seinen Platz in der Zeit.",
+      "startFrame": 576,
+      "endFrame": 651,
+      "durationFrames": 75,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Neben dem Besuch, dem Puls, dem Schlaf.",
+      "startFrame": 659,
+      "endFrame": 743,
+      "durationFrames": 84,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Ziehe durch die Zeit: der Tag ist jetzt verbunden.",
+      "startFrame": 751,
+      "endFrame": 834,
+      "durationFrames": 83,
+      "gapBefore": 8
+    },
+    {
+      "id": "l11",
+      "text": "Von Papier zu einem Teil deiner Geschichte.",
+      "startFrame": 842,
+      "endFrame": 898,
+      "durationFrames": 56,
+      "gapBefore": 8
+    },
+    {
+      "id": "l12",
+      "text": "Schau, wie sich dein Gesundheitsverlauf verbinden könnte.",
+      "startFrame": 906,
+      "endFrame": 995,
+      "durationFrames": 89,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 995,
+  "voiceSeconds": 33.167
+}

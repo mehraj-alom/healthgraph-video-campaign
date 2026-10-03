@@ -1,0 +1,106 @@
+{
+  "id": "reel-05",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Dein Gesundheitsverlauf hat Daten. Warum nicht wie eine Geschichte lesen?",
+      "startFrame": 0,
+      "endFrame": 111,
+      "durationFrames": 111,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Jeder Tag wird ein eigener Bericht im täglichen Gesundheits-Tagebuch.",
+      "startFrame": 119,
+      "endFrame": 224,
+      "durationFrames": 105,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Kein Ordner voller Dateien, sondern ein Stapel, den man blättert.",
+      "startFrame": 232,
+      "endFrame": 340,
+      "durationFrames": 108,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Durch den Stapel blättern.",
+      "startFrame": 348,
+      "endFrame": 388,
+      "durationFrames": 40,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Einfach ein Datum wählen.",
+      "startFrame": 396,
+      "endFrame": 440,
+      "durationFrames": 44,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Der Bericht hebt sich aus dem Stapel.",
+      "startFrame": 448,
+      "endFrame": 501,
+      "durationFrames": 53,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Er öffnet sich, und der Tag zeigt sich.",
+      "startFrame": 509,
+      "endFrame": 578,
+      "durationFrames": 69,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Puls: 59 Schläge pro Minute, um 17:14 Uhr.",
+      "startFrame": 586,
+      "endFrame": 708,
+      "durationFrames": 122,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Dazu der Fingermesswert: 61 Schläge, noch am selben Tag.",
+      "startFrame": 716,
+      "endFrame": 837,
+      "durationFrames": 121,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Sechs Einträge liegen dahinter, mit einem Antippen erreichbar.",
+      "startFrame": 845,
+      "endFrame": 948,
+      "durationFrames": 103,
+      "gapBefore": 8
+    },
+    {
+      "id": "l11",
+      "text": "Jeder Tag eine eigene Seite, in der richtigen Reihenfolge.",
+      "startFrame": 956,
+      "endFrame": 1055,
+      "durationFrames": 99,
+      "gapBefore": 8
+    },
+    {
+      "id": "l12",
+      "text": "Entdecke das Gesundheits-Tagebuch.",
+      "startFrame": 1063,
+      "endFrame": 1122,
+      "durationFrames": 59,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 1122,
+  "voiceSeconds": 37.4
+}

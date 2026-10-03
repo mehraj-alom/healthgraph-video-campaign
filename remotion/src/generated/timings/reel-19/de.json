@@ -1,0 +1,82 @@
+{
+  "id": "reel-19",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Wie sieht deine Gesundheitshistorie aus, wenn alles verbunden ist?",
+      "startFrame": 0,
+      "endFrame": 100,
+      "durationFrames": 100,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Beginne bei einer Person. Ein Leben, keine Kurve.",
+      "startFrame": 108,
+      "endFrame": 193,
+      "durationFrames": 85,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Rundherum alles, was du erfasst hast: Schlaf, Mahlzeiten, Puls, Stimmung.",
+      "startFrame": 201,
+      "endFrame": 339,
+      "durationFrames": 138,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Jeder Punkt ist ein echter Eintrag, keine Dekoration.",
+      "startFrame": 347,
+      "endFrame": 441,
+      "durationFrames": 94,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Manche Punkte verknüpfen sich. Die Verbindung wartete darauf, gesehen zu werden.",
+      "startFrame": 449,
+      "endFrame": 581,
+      "durationFrames": 132,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Ein Puls an einem Tag, ein Dokument am anderen, dazwischen der Schlaf.",
+      "startFrame": 589,
+      "endFrame": 707,
+      "durationFrames": 118,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Fliege durch den Graphen und die Geschichte ordnet sich selbst.",
+      "startFrame": 715,
+      "endFrame": 814,
+      "durationFrames": 99,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Keine simulierten Scans. Keine Vorhersagen. Nur dein eigener Verlauf, verbunden.",
+      "startFrame": 822,
+      "endFrame": 971,
+      "durationFrames": 149,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Deine Gesundheit, verbunden. Erlebe HealthGraph auf healthgraph.shop.",
+      "startFrame": 979,
+      "endFrame": 1101,
+      "durationFrames": 122,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 1101,
+  "voiceSeconds": 36.7
+}

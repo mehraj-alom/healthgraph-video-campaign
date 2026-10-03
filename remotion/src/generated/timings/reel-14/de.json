@@ -1,0 +1,98 @@
+{
+  "id": "reel-14",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Öffne einen Tag aus deiner Gesundheitsgeschichte.",
+      "startFrame": 0,
+      "endFrame": 73,
+      "durationFrames": 73,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Es sieht nicht aus wie eine Karte oder eine Liste.",
+      "startFrame": 81,
+      "endFrame": 156,
+      "durationFrames": 75,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Es sieht aus wie der Tag selbst.",
+      "startFrame": 164,
+      "endFrame": 212,
+      "durationFrames": 48,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Das Papier hebt sich aus dem Stapel.",
+      "startFrame": 220,
+      "endFrame": 276,
+      "durationFrames": 56,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Es faltet sich langsam auf, bis der Tag den Bildschirm füllt.",
+      "startFrame": 284,
+      "endFrame": 382,
+      "durationFrames": 98,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Samstag, der dritte Oktober: Puls, fünfzig neun Schläge pro Minute, um 17 Uhr 14.",
+      "startFrame": 390,
+      "endFrame": 568,
+      "durationFrames": 178,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Eine zweite Messung: einundsechzig Schläge pro Minute, am Finger gemessen.",
+      "startFrame": 576,
+      "endFrame": 703,
+      "durationFrames": 127,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Stimmung des Tages: sehr gut. Schlaf: sieben Stunden.",
+      "startFrame": 711,
+      "endFrame": 819,
+      "durationFrames": 108,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Sechs Einträge liegen auf derselben Seite. Tippe, um sie zu öffnen.",
+      "startFrame": 827,
+      "endFrame": 949,
+      "durationFrames": 122,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Jeder Tag wird zu einer Seite, die du wiederfindest.",
+      "startFrame": 957,
+      "endFrame": 1037,
+      "durationFrames": 80,
+      "gapBefore": 8
+    },
+    {
+      "id": "l11",
+      "text": "Entdecke das Gesundheitstagebuch.",
+      "startFrame": 1045,
+      "endFrame": 1100,
+      "durationFrames": 55,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 1100,
+  "voiceSeconds": 36.667
+}

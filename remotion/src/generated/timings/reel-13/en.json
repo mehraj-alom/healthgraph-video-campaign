@@ -1,0 +1,90 @@
+{
+  "id": "reel-13",
+  "language": "en",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Your health history should remember the context.",
+      "startFrame": 0,
+      "endFrame": 73,
+      "durationFrames": 73,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "A single number, like sixty seven beats per minute, fades fast.",
+      "startFrame": 81,
+      "endFrame": 192,
+      "durationFrames": 111,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "But it was measured on a specific day.",
+      "startFrame": 200,
+      "endFrame": 266,
+      "durationFrames": 66,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "The app remembers the medication you took that morning.",
+      "startFrame": 274,
+      "endFrame": 358,
+      "durationFrames": 84,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "The daily log from the same day sits right next to it.",
+      "startFrame": 366,
+      "endFrame": 457,
+      "durationFrames": 91,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "And the documents you uploaded belong to the same story.",
+      "startFrame": 465,
+      "endFrame": 555,
+      "durationFrames": 90,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "In HealthGraph, each piece stays attached to its context.",
+      "startFrame": 563,
+      "endFrame": 668,
+      "durationFrames": 105,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Zoom out, and the connections become a health history.",
+      "startFrame": 676,
+      "endFrame": 764,
+      "durationFrames": 88,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Nothing gets filed away and forgotten.",
+      "startFrame": 772,
+      "endFrame": 839,
+      "durationFrames": 67,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "See how your health history could connect.",
+      "startFrame": 847,
+      "endFrame": 922,
+      "durationFrames": 75,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 922,
+  "voiceSeconds": 30.733
+}

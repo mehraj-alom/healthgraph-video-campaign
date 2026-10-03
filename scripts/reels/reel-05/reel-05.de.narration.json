@@ -1,0 +1,72 @@
+{
+  "id": "reel-05",
+  "language": "de",
+  "concept": "daily-health-diary",
+  "cluster": "C",
+  "hook": "Dein Gesundheitsverlauf hat Daten. Warum nicht wie eine Geschichte lesen?",
+  "cta": "Entdecke das Gesundheits-Tagebuch.",
+  "thumbnail": "Deine Gesundheit, Seite für Seite",
+  "caption": "Dein Gesundheitsverlauf ist voller Daten und Momente. Im täglichen Gesundheits-Tagebuch wird jeder Tag zu einem Bericht, den man blättert, öffnet und in Ruhe liest: Puls 59 Schläge pro Minute um 17:14 Uhr, Fingermesswert 61, sechs Einträge mit einem Antippen erreichbar. Ein physisches Archiv aus Tagen, keine Liste von Karten. #HealthGraph #Gesundheits-Tagebuch #Tagesbericht #Gesundheitsverlauf #Wohlbefinden #Selbsterkenntnis #DeineDaten #DigitalGesund #Vorbeugung #Achtsamkeit\nEntdecke das Gesundheits-Tagebuch.",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Dein Gesundheitsverlauf hat Daten. Warum nicht wie eine Geschichte lesen?",
+      "beat": "Physisches Archiv etablieren: Stapel cremefarbener Papier-Tagesberichte hebt sich in der Tiefe, ausdrücklich kein Karten-Liste"
+    },
+    {
+      "id": "l2",
+      "text": "Jeder Tag wird ein eigener Bericht im täglichen Gesundheits-Tagebuch.",
+      "beat": "Schnitt auf den Berichtsstapel: viele cremefarbene Seiten, jede mit Datums-Grat am Rand, warmes Papiervolumen"
+    },
+    {
+      "id": "l3",
+      "text": "Kein Ordner voller Dateien, sondern ein Stapel, den man blättert.",
+      "beat": "Stapel bleibt im Bild: Papierberichte, physisch gestapelt mit Tiefe, bewusst keine Kartenliste, keine App-Kacheln"
+    },
+    {
+      "id": "l4",
+      "text": "Durch den Stapel blättern.",
+      "beat": "Finger blättern durch den Berichtsstapel, Seiten gleiten mit sanftem Blättern vorbei"
+    },
+    {
+      "id": "l5",
+      "text": "Einfach ein Datum wählen.",
+      "beat": "Stapel bleibt bei der Seite 3 Okt. stehen; der gewählte Papierbericht löst sich aus dem Stapel"
+    },
+    {
+      "id": "l6",
+      "text": "Der Bericht hebt sich aus dem Stapel.",
+      "beat": "Der gewählte Papierbericht hebt sich aus dem Stapel in Richtung Kamera, die übrigen Seiten setzen sich dahinter ab"
+    },
+    {
+      "id": "l7",
+      "text": "Er öffnet sich, und der Tag zeigt sich.",
+      "beat": "Bericht öffnet sich wie eine Seite: echte daily-report-Karte, 3 Okt. Heute, Tagesbericht, Samstag, 3. Oktober; Nutzername cropped"
+    },
+    {
+      "id": "l8",
+      "text": "Puls: 59 Schläge pro Minute, um 17:14 Uhr.",
+      "beat": "Geöffneter Bericht: Fokus auf die echte Zeile Pulse 59 BPM Fair 5:14 PM der daily-report-Karte"
+    },
+    {
+      "id": "l9",
+      "text": "Dazu der Fingermesswert: 61 Schläge, noch am selben Tag.",
+      "beat": "Fokus gleitet auf die echte Zeile ALSO Pulse Fingertip 61 BPM Fair im selben Bericht"
+    },
+    {
+      "id": "l10",
+      "text": "Sechs Einträge liegen dahinter, mit einem Antippen erreichbar.",
+      "beat": "Fußzeile Log ×6, tap to open pulsiert auf der daily-report-Karte, dann wieder ruhig"
+    },
+    {
+      "id": "l11",
+      "text": "Jeder Tag eine eigene Seite, in der richtigen Reihenfolge.",
+      "beat": "Zurückzoomen auf den vollen Berichtsstapel: das Archiv, Daten in Reihenfolge, der geöffnete Tag liegt oben"
+    },
+    {
+      "id": "l12",
+      "text": "Entdecke das Gesundheits-Tagebuch.",
+      "beat": "Endkarte: CTA über dem weich geblürten Berichtsstapel, warmer Kohle-Farbton"
+    }
+  ]
+}

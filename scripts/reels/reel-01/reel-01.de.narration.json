@@ -1,0 +1,23 @@
+{
+  "id": "reel-01",
+  "language": "de",
+  "concept": "fragmentierung",
+  "cluster": "A",
+  "hook": "Deine Gesundheitsdaten liegen vermutlich überall.",
+  "cta": "Entdecke HealthGraph.",
+  "thumbnail": "Deine Gesundheit, endlich verbunden",
+  "caption": "Dein Blutbefund in einem Ordner. Deine Notizen im Handy. Deine Messwerte woanders. Deine Medikamente wieder woanders. Meistens liegen sie an sechs Orten, und keiner verbindet sie. HealthGraph hält sie an einem Ort: Jeder Eintrag steht neben den anderen, aus Einzeleinträgen wird ein fortlaufender Verlauf. Deine Daten, ein Ort, in deiner Hand – DSGVO-konform, ohne Werbung. Entdecke HealthGraph auf healthgraph.shop. #gesundheit #gesundheitsapp #gesundheitstracking #wohlbefinden #sichsorgen #gesundheitstracker #digitalegesundheit #persönlichegesundheit #einortaldiejedat #gesundheitsmanagement",
+  "lines": [
+    { "id": "l1", "text": "Deine Gesundheitsdaten liegen vermutlich überall.", "beat": "Titelkarte; Fragmente im Dunkeln treibend" },
+    { "id": "l2", "text": "Dein Blutbefund liegt in einem Ordner.", "beat": "PDF-Fragmente-Label schwebt links" },
+    { "id": "l3", "text": "Deine Notizen liegen im Handy.", "beat": "Notiz-Fragmente-Label schwebt rechts" },
+    { "id": "l4", "text": "Deine Medikamente liegen in einer anderen App.", "beat": "Medikament-Fragmente-Label schwebt hinein" },
+    { "id": "l5", "text": "Deine Messwerte liegen in einer Tabelle.", "beat": "Messwert-Fragmente-Label schwebt hinein" },
+    { "id": "l6", "text": "Und Screenshots plus Erinnerungen liegen verstreut.", "beat": "Screenshot- und Kalenderfragmente verteilen sich im Bild" },
+    { "id": "l7", "text": "Jedem einzelnen fehlt der andere.", "beat": "Fragmente bleiben getrennt, langsames Zoomen heraus" },
+    { "id": "l8", "text": "Jetzt kommen sie an einem Ort zusammen.", "beat": "Fragmente strömen in den Records-Upload-Bildschirm" },
+    { "id": "l9", "text": "Jeder Eintrag wird zu einem Knoten im Graphen.", "beat": "health-graph-Bildschirm: 12 Knoten, 22 Verbindungen, Kanten zeichnen sich" },
+    { "id": "l10", "text": "Aus Einzeleinträgen wird ein Zusammenhang.", "beat": "Hineinzoomen über den Gesundheitsgraphen zu den verbundenen Knoten" },
+    { "id": "l11", "text": "Entdecke HealthGraph.", "beat": "Endkarte mit Wortmarke und CTA" }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "reel-07",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Ein einzelner Medikamenteneintrag ist noch kein Verlauf.",
+      "startFrame": 0,
+      "endFrame": 98,
+      "durationFrames": 98,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Eine Dosis, einmal notiert, sagt für sich wenig.",
+      "startFrame": 106,
+      "endFrame": 205,
+      "durationFrames": 99,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Geplant wiederholt er sich an den gleichen Tagen.",
+      "startFrame": 213,
+      "endFrame": 288,
+      "durationFrames": 75,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Die Erinnerung kommt genau dann, wenn die Einnahme fällig ist.",
+      "startFrame": 296,
+      "endFrame": 397,
+      "durationFrames": 101,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Ob eingenommen oder ausgelassen, beides wird festgehalten.",
+      "startFrame": 405,
+      "endFrame": 502,
+      "durationFrames": 97,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Jede Einnahme wird zu einem Ereignis in deinem Tag.",
+      "startFrame": 510,
+      "endFrame": 589,
+      "durationFrames": 79,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Dann ordnen die Wochen- und Monatsansichten sie in den Verlauf ein.",
+      "startFrame": 597,
+      "endFrame": 700,
+      "durationFrames": 103,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Keine Aufgabenliste, sondern ein fortlaufender Verlauf.",
+      "startFrame": 708,
+      "endFrame": 800,
+      "durationFrames": 92,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "So wird aus einem Eintrag ein Verlauf.",
+      "startFrame": 808,
+      "endFrame": 870,
+      "durationFrames": 62,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Entdecke HealthGraph.",
+      "startFrame": 878,
+      "endFrame": 914,
+      "durationFrames": 36,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 914,
+  "voiceSeconds": 30.467
+}

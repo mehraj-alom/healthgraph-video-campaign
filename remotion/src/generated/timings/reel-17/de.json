@@ -1,0 +1,90 @@
+{
+  "id": "reel-17",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Ein Ort für die Bausteine deiner Gesundheit.",
+      "startFrame": 0,
+      "endFrame": 73,
+      "durationFrames": 73,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Schlaf. Ernährung. Medikamente. Beschwerden. Messungen. Dokumente.",
+      "startFrame": 81,
+      "endFrame": 232,
+      "durationFrames": 151,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Normalerweise liegen sie verstreut in fünf verschiedenen Apps.",
+      "startFrame": 240,
+      "endFrame": 336,
+      "durationFrames": 96,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "HealthGraph hält sie nebeneinander.",
+      "startFrame": 344,
+      "endFrame": 401,
+      "durationFrames": 57,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Der Puls am Finger, gemessen, gespeichert, synchronisiert.",
+      "startFrame": 409,
+      "endFrame": 510,
+      "durationFrames": 101,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Geschätzte Kalorien aus den Scans, klar als Schätzung markiert.",
+      "startFrame": 518,
+      "endFrame": 622,
+      "durationFrames": 104,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Stimmung, Schlaf und Mahlzeiten in einem Tagesprotokoll.",
+      "startFrame": 630,
+      "endFrame": 738,
+      "durationFrames": 108,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Dokumente einmal hochgeladen, dann immer dabei.",
+      "startFrame": 746,
+      "endFrame": 824,
+      "durationFrames": 78,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Die Timeline zeigt, wie sich jeder Tag mit dem nächsten verbindet.",
+      "startFrame": 832,
+      "endFrame": 941,
+      "durationFrames": 109,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Erlebe HealthGraph.",
+      "startFrame": 949,
+      "endFrame": 986,
+      "durationFrames": 37,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 986,
+  "voiceSeconds": 32.867
+}

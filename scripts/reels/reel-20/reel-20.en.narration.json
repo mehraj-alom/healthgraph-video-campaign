@@ -1,0 +1,24 @@
+{
+  "id": "reel-20",
+  "language": "en",
+  "concept": "meet-healthgraph",
+  "cluster": "H",
+  "hook": "Meet HealthGraph.",
+  "cta": "Learn more at healthgraph.shop.",
+  "thumbnail": "Meet HealthGraph, your health connected",
+  "caption": "Meet HealthGraph. One place for the pieces of your health history: the daily report, your records, fingertip measurements, answers you can check, and voice check-ins. Your history, connected in one graph. Learn more at healthgraph.shop. #healthgraph #meethealthgraph #selftracking #healthdiary #pulsetracking #digitaldiary #healthtech #connectedhealth #wellness #personalhistory",
+  "lines": [
+    { "id": "l1", "text": "Meet HealthGraph.", "beat": "brand open: healthgraph wordmark and graph-pulse mark form on deep navy, warm charcoal vignette" },
+    { "id": "l2", "text": "Your health history is scattered: notes, files, half-remembered days.", "beat": "fragmented objects float: PDF, NOTE, MEDICATION, SYMPTOM, MEASUREMENT cards drift in depth layers" },
+    { "id": "l3", "text": "The idea is simple: connected context, not disconnected entries.", "beat": "fragments are pulled into one HEALTHGRAPH hub node, green edges draw between them" },
+    { "id": "l4", "text": "Start anywhere: twenty health areas on one screen.", "beat": "explore grid: 20 health-area tiles ripple into place, header healthgraph graph-pulse mark" },
+    { "id": "l5", "text": "The daily report opens each day: pulse, sleep, mood, on one card.", "beat": "daily-report: cream paper card 3 OCT lifts up, Pulse 59 BPM Fair entry, tabs Daily Logs Records Symptoms" },
+    { "id": "l6", "text": "Records stay real files, ready to ask about.", "beat": "records-upload: teal upload button, PDF PNG JPG max 50 MB, file cards dock into Past uploads" },
+    { "id": "l7", "text": "Measure pulse on your fingertip, then watch it land on the timeline.", "beat": "pulse-measurement: green sensor trace, 67 BPM FINGERTIP, Saved and synced, node drops into the health graph" },
+    { "id": "l8", "text": "Ask your records a question and open the entries behind the answer.", "beat": "ai-chat: question typed, answer card slides in, source cards appear behind it with connector lines" },
+    { "id": "l9", "text": "When typing isn't enough, speak to the pulse button instead.", "beat": "home-dashboard: red voice pulse FAB pulses, drawer shows Voice check-in tile" },
+    { "id": "l10", "text": "Your history, connected in one place, one graph.", "beat": "health-graph: camera glides through 12 nodes and 22 connections, legend Event Visit Heart Sleep Nutrition" },
+    { "id": "l11", "text": "No ads, no noise. Just your health, connected.", "beat": "orbit recedes, clean dark frame, wordmark centered" },
+    { "id": "l12", "text": "Learn more at healthgraph.shop.", "beat": "end card: healthgraph.shop wordmark, Learn more" }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "reel-13",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Deine Gesundheitsgeschichte sollte den Kontext im Blick behalten.",
+      "startFrame": 0,
+      "endFrame": 103,
+      "durationFrames": 103,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Eine einzelne Zahl, sagen wir 67 Schläge pro Minute, verblasst schnell.",
+      "startFrame": 111,
+      "endFrame": 265,
+      "durationFrames": 154,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Gemessen wurde sie aber an einem bestimmten Tag.",
+      "startFrame": 273,
+      "endFrame": 352,
+      "durationFrames": 79,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "HealthGraph erinnert sich an die Medikamente, die du an diesem Morgen eingenommen hast.",
+      "startFrame": 360,
+      "endFrame": 491,
+      "durationFrames": 131,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Der tägliche Eintrag von demselben Tag liegt direkt daneben.",
+      "startFrame": 499,
+      "endFrame": 600,
+      "durationFrames": 101,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Auch hochgeladene Unterlagen gehören zur selben Geschichte.",
+      "startFrame": 608,
+      "endFrame": 698,
+      "durationFrames": 90,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Jedes Stück bleibt in HealthGraph fest an seinen Kontext verknüpft.",
+      "startFrame": 706,
+      "endFrame": 804,
+      "durationFrames": 98,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Zoomst du raus, werden die Verbindungen zu einer Gesundheitsgeschichte.",
+      "startFrame": 812,
+      "endFrame": 913,
+      "durationFrames": 101,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Nichts wird abgelegt und vergessen.",
+      "startFrame": 921,
+      "endFrame": 975,
+      "durationFrames": 54,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Sieh dir an, wie deine Gesundheitsgeschichte verbunden werden könnte.",
+      "startFrame": 983,
+      "endFrame": 1082,
+      "durationFrames": 99,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 1082,
+  "voiceSeconds": 36.067
+}

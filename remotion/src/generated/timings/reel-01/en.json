@@ -1,0 +1,98 @@
+{
+  "id": "reel-01",
+  "language": "en",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Your health data is probably everywhere.",
+      "startFrame": 0,
+      "endFrame": 67,
+      "durationFrames": 67,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "A blood report in one folder.",
+      "startFrame": 75,
+      "endFrame": 128,
+      "durationFrames": 53,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Notes in your phone.",
+      "startFrame": 136,
+      "endFrame": 174,
+      "durationFrames": 38,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Medications in a third app.",
+      "startFrame": 182,
+      "endFrame": 231,
+      "durationFrames": 49,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Measurements in a spreadsheet.",
+      "startFrame": 239,
+      "endFrame": 283,
+      "durationFrames": 44,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Screenshots and reminders, scattered.",
+      "startFrame": 291,
+      "endFrame": 353,
+      "durationFrames": 62,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Each one alone, and none of them speaking.",
+      "startFrame": 361,
+      "endFrame": 434,
+      "durationFrames": 73,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Now they all arrive in one place.",
+      "startFrame": 442,
+      "endFrame": 501,
+      "durationFrames": 59,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "And each entry becomes a node in your graph.",
+      "startFrame": 509,
+      "endFrame": 582,
+      "durationFrames": 73,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Now it's one connected history.",
+      "startFrame": 590,
+      "endFrame": 646,
+      "durationFrames": 56,
+      "gapBefore": 8
+    },
+    {
+      "id": "l11",
+      "text": "Explore HealthGraph.",
+      "startFrame": 654,
+      "endFrame": 695,
+      "durationFrames": 41,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 695,
+  "voiceSeconds": 23.167
+}

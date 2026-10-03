@@ -1,0 +1,67 @@
+{
+  "id": "reel-16",
+  "language": "de",
+  "concept": "dokument-zur-geschichte",
+  "cluster": "D",
+  "hook": "Vom Dokument zur Gesundheitsgeschichte.",
+  "cta": "Entdecke HealthGraph auf healthgraph.shop.",
+  "thumbnail": "Vom Dokument zur Gesundheitsgeschichte",
+  "caption": "Vom einzelnen Dokument zur verbundenen Gesundheitsgeschichte: Extraktion, Normalisierung, ein strukturiertes Ereignis, dann der Graph. Präzise, mit Quellbezug, ohne manuelles Erstellen. Entdecke HealthGraph auf healthgraph.shop. #HealthGraph #Gesundheitsdaten #Datenpipeline #StrukturierteDaten #Gesundheitsgeschichte #DigitalGesundheit #Zeitachse #Gesundheitsapp #Tagebuch",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Vom Dokument zur Gesundheitsgeschichte.",
+      "beat": "Hochladescreen für Unterlagen; ein monospace-Datenlabel 'PDF · max. 50 MB' auf einem eingehenden Dateirahmen, instrumentenartig"
+    },
+    {
+      "id": "l2",
+      "text": "Schritt eins: ein Dokument gelangt in die App.",
+      "beat": "der Dateirahmen dockt in die Pipeline; das Label 'SCHRITT 01 / EXTRAKTION' stempelt sich ein"
+    },
+    {
+      "id": "l3",
+      "text": "Die App extrahiert die Felder: Datum, Werte, Einheiten.",
+      "beat": "Feldlabels (DATUM, WERT, EINHEIT) werden aus den Dokumentzeilen gelöst und mit dünnen Linien verbunden"
+    },
+    {
+      "id": "l4",
+      "text": "Schritt zwei: Normalisierung.",
+      "beat": "das Label 'SCHRITT 02 / NORMALISIERUNG' stempelt sich ein; Werte richten sich in ein monospace-Spaltenraster"
+    },
+    {
+      "id": "l5",
+      "text": "Datum wird Zeitstempel, Werte werden konsistent.",
+      "beat": "Datumsangaben klicken in Zeitstempel-Markierungen ein; Zahlen rücken an die Baseline mit Tick-Markierungen"
+    },
+    {
+      "id": "l6",
+      "text": "Schritt drei: ein strukturiertes Gesundheitsereignis.",
+      "beat": "das Label 'SCHRITT 03 / ERREIGNIS'; eine Ereigniskarte setzt sich aus den Teilen zusammen: Datum, Wert, Ursprungsdokument"
+    },
+    {
+      "id": "l7",
+      "text": "Jedes Ereignis behält den Bezug zum ursprünglichen Dokument.",
+      "beat": "eine Quellenkante zeichnet sich von der Ereigniskarte zurück zum Dokumentrahmen; ein monospace-Label bestätigt"
+    },
+    {
+      "id": "l8",
+      "text": "Schritt vier: Das Ereignis fügt sich in die Zeitachse ein.",
+      "beat": "das Label 'SCHRITT 04 / ZEITACHSE'; das Ereignis landet zwischen 2. OKT und 3. OKT auf einer wachsenden Zeitachse"
+    },
+    {
+      "id": "l9",
+      "text": "Der Graph aktualisiert sich: 12 Knoten, 22 Verbindungen.",
+      "beat": "Schnitt zum Health-Graph-Screen; ein neuer Knoten verbindet sich, Kanten zeichnen sich zwischen den Knoten"
+    },
+    {
+      "id": "l10",
+      "text": "Kein manuelles Erstellen, keine verlorene PDF-Datei.",
+      "beat": "ein ordentliches Raster aus Ereigniskarten; der Dokumentrahmen leuchtet in der 'Past uploads'-Liste"
+    },
+    {
+      "id": "l11",
+      "text": "Entdecke HealthGraph auf healthgraph.shop.",
+      "beat": "Endkarte: die komplette Pipeline (Dokument, Extraktion, Ereignis, Graph) hinter der CTA"
+    }
+  ]
+}

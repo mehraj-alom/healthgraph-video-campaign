@@ -1,0 +1,82 @@
+{
+  "id": "reel-19",
+  "language": "en",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "What does your health history look like when everything connects?",
+      "startFrame": 0,
+      "endFrame": 90,
+      "durationFrames": 90,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Start with a person. A life, not a chart.",
+      "startFrame": 98,
+      "endFrame": 178,
+      "durationFrames": 80,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Around them, everything they have logged: sleep, meals, pulse, mood.",
+      "startFrame": 186,
+      "endFrame": 323,
+      "durationFrames": 137,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Every point is a real entry, not a decoration.",
+      "startFrame": 331,
+      "endFrame": 408,
+      "durationFrames": 77,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Some points link. The connection was waiting to be seen.",
+      "startFrame": 416,
+      "endFrame": 504,
+      "durationFrames": 88,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "A pulse one day, a document another, sleep in between.",
+      "startFrame": 512,
+      "endFrame": 620,
+      "durationFrames": 108,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Fly through the graph and the history assembles itself.",
+      "startFrame": 628,
+      "endFrame": 712,
+      "durationFrames": 84,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "No fake scans. No predictions. Just your trail, connected.",
+      "startFrame": 720,
+      "endFrame": 848,
+      "durationFrames": 128,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Your health, connected. Explore HealthGraph at healthgraph.shop.",
+      "startFrame": 856,
+      "endFrame": 979,
+      "durationFrames": 123,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 979,
+  "voiceSeconds": 32.633
+}

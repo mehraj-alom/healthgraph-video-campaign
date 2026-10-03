@@ -1,0 +1,67 @@
+{
+  "id": "reel-14",
+  "language": "en",
+  "concept": "open-a-day",
+  "cluster": "C",
+  "hook": "Open a day from your health history.",
+  "cta": "Explore the health diary.",
+  "thumbnail": "Open a day from the diary",
+  "caption": "Your health history kept like an archive of days. Open one, and the whole day unfolds on a single page: pulse readings, mood, sleep, every log where it belongs. Not a list of cards, a place to come back to. Explore the health diary. #HealthDiary #HealthGraph #DailyHealth #HealthJournal #HealthHistory #DailyLog #PulseCheck #Wellness #HealthTracking",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Open a day from your health history.",
+      "beat": "a stack of cream paper daily reports sits on a desk-lit surface; light catches the top report's edge"
+    },
+    {
+      "id": "l2",
+      "text": "It doesn't look like a list of cards.",
+      "beat": "a ghost of a flat card-list UI dissolves into paper texture, establishing the archive, not a card list"
+    },
+    {
+      "id": "l3",
+      "text": "It looks like the day itself.",
+      "beat": "close-up on the top paper report's edge; '3 OCT Today' catches the light"
+    },
+    {
+      "id": "l4",
+      "text": "The paper rises out of the stack.",
+      "beat": "HERO: the paper report lifts out of the stack with a slow tilt, floating above the archive"
+    },
+    {
+      "id": "l5",
+      "text": "It unfolds slowly, until the day fills the screen.",
+      "beat": "the report unfolds, growing until it fills two-thirds of the frame"
+    },
+    {
+      "id": "l6",
+      "text": "Saturday, October third: pulse, fifty nine beats per minute, at five fourteen in the afternoon.",
+      "beat": "the pulse line fills in on the paper: Pulse 59 BPM · Fair 5:14 PM, in a quiet serif"
+    },
+    {
+      "id": "l7",
+      "text": "A second reading, sixty one beats per minute, from the fingertip.",
+      "beat": "the second row fills: ALSO Pulse — Fingertip 61 BPM · Fair"
+    },
+    {
+      "id": "l8",
+      "text": "Mood of the day: very good. Sleep: seven hours.",
+      "beat": "the lower block unfolds: mood 'Very good', sleep 7h, the '3 events' history row"
+    },
+    {
+      "id": "l9",
+      "text": "Six logs sit on the same page, tap to open.",
+      "beat": "the footer 'Log ×6, tap to open' taps; a small log card lifts up from the page"
+    },
+    {
+      "id": "l10",
+      "text": "Every day becomes a page you can come back to.",
+      "beat": "camera drifts back over the stack; many days, each one a paper page"
+    },
+    {
+      "id": "l11",
+      "text": "Explore the health diary.",
+      "beat": "end card: the paper report settled on top of the stack with the CTA beneath"
+    }
+  ]
+}

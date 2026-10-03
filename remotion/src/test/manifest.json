@@ -1,0 +1,7 @@
+{
+  "id": "system-test",
+  "import": "SystemTest",
+  "compositions": [
+    {"name": "SystemTest", "lang": "en", "durationSec": 10, "tailFrames": 0, "width": 1080, "height": 1920}
+  ]
+}

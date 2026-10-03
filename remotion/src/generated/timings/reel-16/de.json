@@ -1,0 +1,98 @@
+{
+  "id": "reel-16",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Vom Dokument zur Gesundheitsgeschichte.",
+      "startFrame": 0,
+      "endFrame": 57,
+      "durationFrames": 57,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Schritt eins: ein Dokument gelangt in die App.",
+      "startFrame": 65,
+      "endFrame": 134,
+      "durationFrames": 69,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Die App extrahiert die Felder: Datum, Werte, Einheiten.",
+      "startFrame": 142,
+      "endFrame": 250,
+      "durationFrames": 108,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Schritt zwei: Normalisierung.",
+      "startFrame": 258,
+      "endFrame": 314,
+      "durationFrames": 56,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Datum wird Zeitstempel, Werte werden konsistent.",
+      "startFrame": 322,
+      "endFrame": 408,
+      "durationFrames": 86,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Schritt drei: ein strukturiertes Gesundheitsereignis.",
+      "startFrame": 416,
+      "endFrame": 511,
+      "durationFrames": 95,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Jedes Ereignis behält den Bezug zum ursprünglichen Dokument.",
+      "startFrame": 519,
+      "endFrame": 622,
+      "durationFrames": 103,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Schritt vier: Das Ereignis fügt sich in die Zeitachse ein.",
+      "startFrame": 630,
+      "endFrame": 721,
+      "durationFrames": 91,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Der Graph aktualisiert sich: 12 Knoten, 22 Verbindungen.",
+      "startFrame": 729,
+      "endFrame": 855,
+      "durationFrames": 126,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Kein manuelles Erstellen, keine verlorene PDF-Datei.",
+      "startFrame": 863,
+      "endFrame": 957,
+      "durationFrames": 94,
+      "gapBefore": 8
+    },
+    {
+      "id": "l11",
+      "text": "Entdecke HealthGraph auf healthgraph.shop.",
+      "startFrame": 965,
+      "endFrame": 1035,
+      "durationFrames": 70,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 1035,
+  "voiceSeconds": 34.5
+}

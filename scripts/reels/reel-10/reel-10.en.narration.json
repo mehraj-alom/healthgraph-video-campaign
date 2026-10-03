@@ -1,0 +1,62 @@
+{
+  "id": "reel-10",
+  "language": "en",
+  "concept": "disconnected-apps",
+  "cluster": "A",
+  "hook": "Your records are connected. Your apps usually aren't.",
+  "cta": "Explore HealthGraph.",
+  "thumbnail": "Your records finally connect",
+  "caption": "Your records reference each other, but the apps holding your data rarely talk to each other. HealthGraph puts your records in one place and shows the connections that were always there: twelve nodes, twenty two connections, one history. Explore HealthGraph. #HealthGraph #HealthRecords #HealthData #DigitalHealth #HealthHistory #SelfTracking #PersonalData #ConnectedHealth",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Your records are connected. Your apps usually aren't.",
+      "beat": "split frame: connected document cards with edges on the left, isolated grey app icons on the right"
+    },
+    {
+      "id": "l2",
+      "text": "A visit points to a measurement. A medication points to a day.",
+      "beat": "a thin edge draws between a VISIT card and a MEASUREMENT card, then between MEDICATION and a day card"
+    },
+    {
+      "id": "l3",
+      "text": "But the apps holding your data rarely talk to each other.",
+      "beat": "generic app tiles labeled SLEEP, PULSE, NOTES sit apart, grey, without edges"
+    },
+    {
+      "id": "l4",
+      "text": "So the picture stays split.",
+      "beat": "the split scene dims; the gap between the two clusters stays visible"
+    },
+    {
+      "id": "l5",
+      "text": "HealthGraph puts your records in one place.",
+      "beat": "real records-upload screen: PDF, PNG, JPG, max 50 MB, teal upload button"
+    },
+    {
+      "id": "l6",
+      "text": "Upload a report. Log a pulse. Note a symptom.",
+      "beat": "quick montage: records-upload, pulse-measurement result 67 BPM fingertip, daily-log mood Very good"
+    },
+    {
+      "id": "l7",
+      "text": "It connects them into one graph.",
+      "beat": "the loose objects fly toward one central hub; edges begin to draw around it"
+    },
+    {
+      "id": "l8",
+      "text": "The health graph shows connections that were always there.",
+      "beat": "full health-graph screen, 12 nodes and 22 connections; camera glides through the graph"
+    },
+    {
+      "id": "l9",
+      "text": "One history. Not twenty open tabs.",
+      "beat": "the graph pulls back wide; the scattered app tiles fade behind it"
+    },
+    {
+      "id": "l10",
+      "text": "Explore HealthGraph.",
+      "beat": "end card on warm charcoal, graph motif behind the CTA"
+    }
+  ]
+}

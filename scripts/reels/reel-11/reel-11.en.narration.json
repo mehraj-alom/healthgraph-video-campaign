@@ -1,0 +1,62 @@
+{
+  "id": "reel-11",
+  "language": "en",
+  "concept": "ask-instead-of-searching",
+  "cluster": "B",
+  "hook": "Imagine asking your health records instead of searching through PDFs.",
+  "cta": "Ask your records.",
+  "thumbnail": "Ask instead of scrolling PDFs",
+  "caption": "Searching through PDFs means open, scroll, squint, close. What if you could just ask? Ask how you slept this week, and the matching record opens right where it matters, with the date and context around it. Wellness information, not a diagnosis. Ask your records. #HealthGraph #AskYourRecords #HealthRecords #HealthData #DigitalHealth #SelfTracking #PersonalHealth #DocumentSearch",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Imagine asking your health records instead of searching through PDFs.",
+      "beat": "a stack of generic PDF documents; a cursor hovers over an empty search field"
+    },
+    {
+      "id": "l2",
+      "text": "Searching is open, scroll, squint, close.",
+      "beat": "documents open and close rapidly: open, scroll, squint, close"
+    },
+    {
+      "id": "l3",
+      "text": "Asking is different.",
+      "beat": "the documents step aside; a chat input fades in"
+    },
+    {
+      "id": "l4",
+      "text": "Open the chat. Type a question.",
+      "beat": "real ai-chat screen; the input field Ask about your health stays in view"
+    },
+    {
+      "id": "l5",
+      "text": "How did I sleep this week?",
+      "beat": "the suggested chip How did I sleep this week is tapped in the ai-chat screen"
+    },
+    {
+      "id": "l6",
+      "text": "The answer lands with the records behind it.",
+      "beat": "an answer card expands in the chat; the source references in it glow"
+    },
+    {
+      "id": "l7",
+      "text": "The matching record opens, already at the right place.",
+      "beat": "the daily-report card opens, already at the right section, 3 OCT in view"
+    },
+    {
+      "id": "l8",
+      "text": "You see the context: date, measurements, notes around it.",
+      "beat": "context panel around the entry: date, adjacent entries, and the patterns-sleep chart 420 min steady"
+    },
+    {
+      "id": "l9",
+      "text": "Wellness information, not a diagnosis.",
+      "beat": "the small line Wellness info only, Not medical advice rests calm in frame"
+    },
+    {
+      "id": "l10",
+      "text": "Ask your records.",
+      "beat": "end card: chat with a calm blinking cursor, CTA over the dimmed ai-chat screen"
+    }
+  ]
+}

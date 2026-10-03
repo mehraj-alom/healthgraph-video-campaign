@@ -1,0 +1,106 @@
+{
+  "id": "reel-20",
+  "language": "en",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Meet HealthGraph.",
+      "startFrame": 0,
+      "endFrame": 33,
+      "durationFrames": 33,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Your health history is scattered: notes, files, half-remembered days.",
+      "startFrame": 41,
+      "endFrame": 165,
+      "durationFrames": 124,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "The idea is simple: connected context, not disconnected entries.",
+      "startFrame": 173,
+      "endFrame": 302,
+      "durationFrames": 129,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Start anywhere: twenty health areas on one screen.",
+      "startFrame": 310,
+      "endFrame": 404,
+      "durationFrames": 94,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "The daily report opens each day: pulse, sleep, mood, on one card.",
+      "startFrame": 412,
+      "endFrame": 555,
+      "durationFrames": 143,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Records stay real files, ready to ask about.",
+      "startFrame": 563,
+      "endFrame": 648,
+      "durationFrames": 85,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Measure pulse on your fingertip, then watch it land on the timeline.",
+      "startFrame": 656,
+      "endFrame": 761,
+      "durationFrames": 105,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Ask your records a question and open the entries behind the answer.",
+      "startFrame": 769,
+      "endFrame": 878,
+      "durationFrames": 109,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "When typing isn't enough, speak to the pulse button instead.",
+      "startFrame": 886,
+      "endFrame": 990,
+      "durationFrames": 104,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Your history, connected in one place, one graph.",
+      "startFrame": 998,
+      "endFrame": 1095,
+      "durationFrames": 97,
+      "gapBefore": 8
+    },
+    {
+      "id": "l11",
+      "text": "No ads, no noise. Just your health, connected.",
+      "startFrame": 1103,
+      "endFrame": 1206,
+      "durationFrames": 103,
+      "gapBefore": 8
+    },
+    {
+      "id": "l12",
+      "text": "Learn more at healthgraph.shop.",
+      "startFrame": 1214,
+      "endFrame": 1271,
+      "durationFrames": 57,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 1271,
+  "voiceSeconds": 42.367
+}

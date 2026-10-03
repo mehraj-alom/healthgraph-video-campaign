@@ -1,0 +1,62 @@
+{
+  "id": "reel-07",
+  "language": "en",
+  "concept": "medication-to-history",
+  "cluster": "F",
+  "hook": "One medication entry isn't your health history.",
+  "cta": "Discover HealthGraph.",
+  "thumbnail": "One entry. Then a history.",
+  "caption": "One dose, logged once, is just a data point. Scheduled, it becomes a running record: the reminder shows up on time, taken or skipped gets logged, every dose lands in your day's history, and the week and month views place it in context. Not a to-do list, a history. #HealthGraph #Medication #HealthHistory #DailyLog #Patterns #HealthData #SelfTracking #Wellness #HealthApp #PersonalRecords\nDiscover HealthGraph.",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "One medication entry isn't your health history.",
+      "beat": "home-dashboard: the real Medication card, Add one to star, sits alone with lots of empty space, single-entry feel"
+    },
+    {
+      "id": "l2",
+      "text": "One dose, logged once, says very little by itself.",
+      "beat": "Slow push-in on the medication card; one logged dose, the rest of the screen quiet"
+    },
+    {
+      "id": "l3",
+      "text": "Scheduled, it repeats on the same days.",
+      "beat": "Same medication card gains a scheduled marker, motif: a quiet recurring calendar dot, no new invented values"
+    },
+    {
+      "id": "l4",
+      "text": "The reminder shows up exactly when it's due.",
+      "beat": "The medication card pulses with the restrained red voice-pulse motif at the due moment"
+    },
+    {
+      "id": "l5",
+      "text": "Taken or skipped, either way gets logged.",
+      "beat": "The medication card toggles between the taken state and the not taken state, both recorded"
+    },
+    {
+      "id": "l6",
+      "text": "Each dose becomes an event in your day.",
+      "beat": "The recorded dose slides into the daily-log Recent history row, joining the pattern of 3 events"
+    },
+    {
+      "id": "l7",
+      "text": "Then the week and month views place it in context.",
+      "beat": "home-dashboard: Your patterns, the Week and Month tabs switch, real pattern chart Sleep duration 420min steady as the context chart"
+    },
+    {
+      "id": "l8",
+      "text": "Not a to-do list. A running record.",
+      "beat": "Side by side: the medication card and the patterns charts, one entry shown inside its surroundings"
+    },
+    {
+      "id": "l9",
+      "text": "That's how one entry becomes a history.",
+      "beat": "Pull back to the full home dashboard: card and patterns together, the single dose now in context"
+    },
+    {
+      "id": "l10",
+      "text": "Discover HealthGraph.",
+      "beat": "End card: CTA over the dimmed home dashboard, voice FAB idle at the bottom"
+    }
+  ]
+}

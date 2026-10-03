@@ -1,0 +1,98 @@
+{
+  "id": "reel-01",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Deine Gesundheitsdaten liegen vermutlich überall.",
+      "startFrame": 0,
+      "endFrame": 85,
+      "durationFrames": 85,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Dein Blutbefund liegt in einem Ordner.",
+      "startFrame": 93,
+      "endFrame": 158,
+      "durationFrames": 65,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Deine Notizen liegen im Handy.",
+      "startFrame": 166,
+      "endFrame": 215,
+      "durationFrames": 49,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Deine Medikamente liegen in einer anderen App.",
+      "startFrame": 223,
+      "endFrame": 296,
+      "durationFrames": 73,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Deine Messwerte liegen in einer Tabelle.",
+      "startFrame": 304,
+      "endFrame": 360,
+      "durationFrames": 56,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Und Screenshots plus Erinnerungen liegen verstreut.",
+      "startFrame": 368,
+      "endFrame": 454,
+      "durationFrames": 86,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Jedem einzelnen fehlt der andere.",
+      "startFrame": 462,
+      "endFrame": 515,
+      "durationFrames": 53,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Jetzt kommen sie an einem Ort zusammen.",
+      "startFrame": 523,
+      "endFrame": 579,
+      "durationFrames": 56,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Jeder Eintrag wird zu einem Knoten im Graphen.",
+      "startFrame": 587,
+      "endFrame": 664,
+      "durationFrames": 77,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Aus Einzeleinträgen wird ein Zusammenhang.",
+      "startFrame": 672,
+      "endFrame": 738,
+      "durationFrames": 66,
+      "gapBefore": 8
+    },
+    {
+      "id": "l11",
+      "text": "Entdecke HealthGraph.",
+      "startFrame": 746,
+      "endFrame": 791,
+      "durationFrames": 45,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 791,
+  "voiceSeconds": 26.367
+}

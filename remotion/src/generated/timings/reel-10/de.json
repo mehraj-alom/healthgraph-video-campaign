@@ -1,0 +1,90 @@
+{
+  "id": "reel-10",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Deine Unterlagen hängen zusammen. Deine Apps meistens nicht.",
+      "startFrame": 0,
+      "endFrame": 95,
+      "durationFrames": 95,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Ein Besuch verweist auf eine Messung. Ein Medikament auf einen Tag.",
+      "startFrame": 103,
+      "endFrame": 210,
+      "durationFrames": 107,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Aber die Apps, in denen deine Daten liegen, sprechen selten miteinander.",
+      "startFrame": 218,
+      "endFrame": 326,
+      "durationFrames": 108,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "So bleibt das Gesamtbild zerstückelt.",
+      "startFrame": 334,
+      "endFrame": 385,
+      "durationFrames": 51,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "HealthGraph bringt deine Unterlagen an einem Ort zusammen.",
+      "startFrame": 393,
+      "endFrame": 484,
+      "durationFrames": 91,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Bericht hochladen. Puls messen. Symptom notieren.",
+      "startFrame": 492,
+      "endFrame": 589,
+      "durationFrames": 97,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Es verbindet sie in einem Graphen.",
+      "startFrame": 597,
+      "endFrame": 653,
+      "durationFrames": 56,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Der Health Graph zeigt die Verbindungen, die schon immer da waren.",
+      "startFrame": 661,
+      "endFrame": 755,
+      "durationFrames": 94,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Eine Geschichte. Nicht zwanzig offene Fenster.",
+      "startFrame": 763,
+      "endFrame": 848,
+      "durationFrames": 85,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Erlebe HealthGraph.",
+      "startFrame": 856,
+      "endFrame": 894,
+      "durationFrames": 38,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 894,
+  "voiceSeconds": 29.8
+}

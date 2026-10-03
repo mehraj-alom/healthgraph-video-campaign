@@ -1,0 +1,62 @@
+{
+  "id": "reel-10",
+  "language": "de",
+  "concept": "disconnected-apps",
+  "cluster": "A",
+  "hook": "Deine Unterlagen hängen zusammen. Deine Apps meistens nicht.",
+  "cta": "Erlebe HealthGraph.",
+  "thumbnail": "Deine Unterlagen, endlich verbunden",
+  "caption": "Deine Unterlagen gehören zusammen: Ein Besuch verweist auf eine Messung, ein Medikament auf einen Tag. Aber die Apps, in denen deine Daten liegen, sprechen selten miteinander, so bleibt das Bild zerstückelt. HealthGraph bringt deine Unterlagen an einem Ort zusammen und zeigt die Verbindungen, die schon immer da waren. Kostenlos, DSGVO-konform, ohne Werbung. #HealthGraph #Gesundheit #Gesundheitsunterlagen #Gesundheitsdaten #DigitaleGesundheit #SelfTracking #Gesundheitsverlauf #DeineDaten\nErlebe HealthGraph.",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Deine Unterlagen hängen zusammen. Deine Apps meistens nicht.",
+      "beat": "geteilte Bildfläche: links verbundene Dokumentkarten mit Kanten, rechts isolierte graue App-Symbole"
+    },
+    {
+      "id": "l2",
+      "text": "Ein Besuch verweist auf eine Messung. Ein Medikament auf einen Tag.",
+      "beat": "eine dünne Kante zeichnet sich zwischen einer Visit-Karte und einer Messkarte, dann zwischen Medikament und Tageskarte"
+    },
+    {
+      "id": "l3",
+      "text": "Aber die Apps, in denen deine Daten liegen, sprechen selten miteinander.",
+      "beat": "generische App-Kacheln mit den Beschriftungen SLEEP, PULSE, NOTES liegen getrennt, grau, ohne Kanten"
+    },
+    {
+      "id": "l4",
+      "text": "So bleibt das Gesamtbild zerstückelt.",
+      "beat": "die Split-Szene dimmt; der Spalt zwischen den beiden Gruppen bleibt sichtbar"
+    },
+    {
+      "id": "l5",
+      "text": "HealthGraph bringt deine Unterlagen an einem Ort zusammen.",
+      "beat": "echter records-upload-Screen: PDF, PNG, JPG, max 50 MB, türkiser Upload-Button"
+    },
+    {
+      "id": "l6",
+      "text": "Bericht hochladen. Puls messen. Symptom notieren.",
+      "beat": "schnelle Montage: records-upload, pulse-measurement-Ergebnis 67 BPM fingertip, daily-log Stimmung Very good"
+    },
+    {
+      "id": "l7",
+      "text": "Es verbindet sie in einem Graphen.",
+      "beat": "die losen Objekte fliegen zu einem zentralen Hub; Kanten beginnen, sich um ihn zu zeichnen"
+    },
+    {
+      "id": "l8",
+      "text": "Der Health Graph zeigt die Verbindungen, die schon immer da waren.",
+      "beat": "voller health-graph-Screen, 12 nodes und 22 connections; die Kamera gleitet durch den Graph"
+    },
+    {
+      "id": "l9",
+      "text": "Eine Geschichte. Nicht zwanzig offene Fenster.",
+      "beat": "der Graph zoomt weit aus; die gestreuten App-Kacheln verblassen hinter ihm"
+    },
+    {
+      "id": "l10",
+      "text": "Erlebe HealthGraph.",
+      "beat": "Endkarte auf warmem Anthrazit, Graph-Motiv hinter dem CTA"
+    }
+  ]
+}

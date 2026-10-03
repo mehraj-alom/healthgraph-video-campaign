@@ -1,0 +1,24 @@
+{
+  "id": "reel-20",
+  "language": "de",
+  "concept": "meet-healthgraph",
+  "cluster": "H",
+  "hook": "Lernen wir HealthGraph kennen.",
+  "cta": "Erfahre mehr auf healthgraph.shop.",
+  "thumbnail": "Deine Gesundheit, endlich an einem Ort",
+  "caption": "Lernen wir HealthGraph kennen. Ein Ort für die Bausteine deiner Gesundheitshistorie: der Tagesbericht, deine Dokumente, Messungen am Finger, Antworten, die du nachprüfen kannst, und Sprach-Check-ins. Deine Gesundheit, verbunden in einem Graphen. Erfahre mehr auf healthgraph.shop. #healthgraph #meethealthgraph #selftracking #gesundheitstagebuch #pulsemessung #digitalarchiv #healthtech #vernetztegesundheit #wellness #gesundheitsverlauf",
+  "lines": [
+    { "id": "l1", "text": "Lernen wir HealthGraph kennen.", "beat": "brand open: healthgraph wordmark and graph-pulse mark form on deep navy, warm charcoal vignette" },
+    { "id": "l2", "text": "Deine Gesundheitshistorie ist verstreut: Notizen, Dateien, nur halb erinnerbare Tage.", "beat": "fragmented objects float: PDF, NOTE, MEDICATION, SYMPTOM, MEASUREMENT cards drift in depth layers" },
+    { "id": "l3", "text": "Die Idee ist einfach: verbundener Kontext statt loser Einträge.", "beat": "fragments are pulled into one HEALTHGRAPH hub node, green edges draw between them" },
+    { "id": "l4", "text": "Starte überall: zwanzig Bereiche auf einem Bildschirm.", "beat": "explore grid: 20 health-area tiles ripple into place, header healthgraph graph-pulse mark" },
+    { "id": "l5", "text": "Der Tagesbericht öffnet den Tag: Puls, Schlaf, Stimmung auf einer Karte.", "beat": "daily-report: cream paper card 3 OCT lifts up, Pulse 59 BPM Fair entry, tabs Daily Logs Records Symptoms" },
+    { "id": "l6", "text": "Dokumente bleiben echte Dateien, die du jederzeit abfragen kannst.", "beat": "records-upload: teal upload button, PDF PNG JPG max 50 MB, file cards dock into Past uploads" },
+    { "id": "l7", "text": "Puls am Finger messen, dann zusehen, wie er in die Timeline einläuft.", "beat": "pulse-measurement: green sensor trace, 67 BPM FINGERTIP, Saved and synced, node drops into the health graph" },
+    { "id": "l8", "text": "Frag deine Aufzeichnungen eine Frage und öffne die Einträge hinter der Antwort.", "beat": "ai-chat: question typed, answer card slides in, source cards appear behind it with connector lines" },
+    { "id": "l9", "text": "Wenn Tippen zu viel ist, sprich mit dem pulsierenden Button.", "beat": "home-dashboard: red voice pulse FAB pulses, drawer shows Voice check-in tile" },
+    { "id": "l10", "text": "Kostenlos, DSGVO-konform, ohne Werbung.", "beat": "trust card: three calm chips Kostenlos, DSGVO-konform, Ohne Werbung on the dark frame" },
+    { "id": "l11", "text": "Deine Gesundheit, verbunden an einem Ort.", "beat": "health-graph: camera glides through 12 nodes and 22 connections, legend Event Visit Heart Sleep Nutrition" },
+    { "id": "l12", "text": "Erfahre mehr auf healthgraph.shop.", "beat": "end card: healthgraph.shop wordmark, Erfahre mehr" }
+  ]
+}

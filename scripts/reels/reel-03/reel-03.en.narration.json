@@ -1,0 +1,24 @@
+{
+  "id": "reel-03",
+  "language": "en",
+  "concept": "not-a-tracker",
+  "cluster": "A",
+  "hook": "This isn't another health tracker.",
+  "cta": "Discover HealthGraph.",
+  "thumbnail": "Context, not just counting",
+  "caption": "A tracker counts one thing at a time. HealthGraph keeps the thread instead: the visit next to the pulse, the pulse next to the day. Not isolated numbers, but your health history as connected context, growing as you live. Wellness info only, not medical advice. Discover HealthGraph at healthgraph.shop. #healthgraph #healthhistory #healthapp #digitalhealth #selfcare #healthdata #personalhealth #wellness #selftracking #connectedhistory",
+  "lines": [
+    { "id": "l1", "text": "This isn't another health tracker.", "beat": "Title card with wordmark, calm hold" },
+    { "id": "l2", "text": "A tracker counts one thing at a time.", "beat": "Single metric labels drift past in isolation" },
+    { "id": "l3", "text": "Sleep here, food there, steps somewhere else.", "beat": "SLEEP, FOOD, STEPS labels adrift, not connected" },
+    { "id": "l4", "text": "It tells you where you stand today.", "beat": "daily-report card shows one day's summary" },
+    { "id": "l5", "text": "It rarely shows you where you've been.", "beat": "The card alone, no neighbors, slow zoom out" },
+    { "id": "l6", "text": "This is a connected history instead.", "beat": "Transition: fragments line up toward the center" },
+    { "id": "l7", "text": "Every entry sits next to the others.", "beat": "health-graph screen: adjacent nodes with short edges" },
+    { "id": "l8", "text": "The visit connects to the pulse.", "beat": "health-graph: edge draws from the visit node to the heart node" },
+    { "id": "l9", "text": "The pulse connects to the day.", "beat": "health-graph: edge draws from the heart node to the sleep and day nodes" },
+    { "id": "l10", "text": "You see your history as one thread.", "beat": "health-graph: drag across time, the graph travels" },
+    { "id": "l11", "text": "That's the difference: context over counting.", "beat": "Push-in across the full graph, '12 nodes, 22 connections'" },
+    { "id": "l12", "text": "Discover HealthGraph.", "beat": "End card with wordmark and CTA" }
+  ]
+}

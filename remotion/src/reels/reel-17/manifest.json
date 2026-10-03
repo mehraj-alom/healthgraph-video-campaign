@@ -1,0 +1,26 @@
+{
+  "id": "reel-17",
+  "import": "Reel17",
+  "thumbnailImport": "Thumbnail17",
+  "compositions": [
+    {
+      "name": "Reel17En",
+      "lang": "en",
+      "tailFrames": 90,
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "name": "Reel17De",
+      "lang": "de",
+      "tailFrames": 90,
+      "width": 1080,
+      "height": 1920
+    }
+  ],
+  "thumbnail": {
+    "name": "Reel17Thumb",
+    "width": 1080,
+    "height": 1080
+  }
+}

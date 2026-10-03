@@ -1,0 +1,22 @@
+{
+  "id": "reel-17",
+  "language": "en",
+  "concept": "one-place-montage",
+  "cluster": "A",
+  "hook": "One place for the pieces of your health history.",
+  "cta": "Explore HealthGraph.",
+  "thumbnail": "Your health, all in one place",
+  "caption": "Your health history shouldn't live in five different apps. Sleep, meals, medication, symptoms, measurements, documents, one place that actually connects them. Explore HealthGraph. #healthgraph #healthtimeline #selftracking #healthdiary #wellnessjournal #digitaldiary #pulsehealth #healthtech #mindfultracking #connectedhealth",
+  "lines": [
+    { "id": "l1", "text": "One place for the pieces of your health history.", "beat": "explore grid montage: 20 health-area tiles ripple into place over warm charcoal, healthgraph graph-pulse mark settles top, voice FAB pulse visible" },
+    { "id": "l2", "text": "Sleep. Nutrition. Medication. Symptoms. Measurements. Documents.", "beat": "fast succession, one tile per word: sleep, nutrition ring, medication card, symptom map, pulse result, document cards, each a masked reveal" },
+    { "id": "l3", "text": "Usually they live scattered across five different places.", "beat": "fragmented objects float: PDF, NOTE, MEDICATION, SYMPTOM, MEASUREMENT, MEAL cards drift apart in depth layers" },
+    { "id": "l4", "text": "HealthGraph keeps them side by side.", "beat": "all fragment cards are pulled into one HEALTHGRAPH hub node, green edges draw between them" },
+    { "id": "l5", "text": "A pulse reading on your fingertip, saved and synced.", "beat": "pulse-measurement screen: green sensor trace draws, 67 BPM FINGERTIP gauge at 58 percent, Saved and synced chip" },
+    { "id": "l6", "text": "Estimated calories from today's scans, clearly marked as estimates.", "beat": "nutrition-calories screen: ring fills to 977 of 3000 kcal, Scans estimate. Not measured, not a target. line" },
+    { "id": "l7", "text": "Mood, sleep, and meals from a single daily log.", "beat": "daily-log screen: mood Very good, sleep 7h, recent history row with 3 events" },
+    { "id": "l8", "text": "Documents uploaded once, kept with everything else.", "beat": "records-upload screen: teal upload button, PDF PNG JPG file cards dock into Past uploads" },
+    { "id": "l9", "text": "And the timeline shows how each day connects to the next.", "beat": "health-graph screen: camera drags through time across 12 nodes and 22 connections, legend Event Visit Heart Sleep Nutrition" },
+    { "id": "l10", "text": "Explore HealthGraph.", "beat": "end card: healthgraph wordmark centered, Explore HealthGraph" }
+  ]
+}

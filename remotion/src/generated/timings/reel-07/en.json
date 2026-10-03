@@ -1,0 +1,90 @@
+{
+  "id": "reel-07",
+  "language": "en",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "One medication entry isn't your health history.",
+      "startFrame": 0,
+      "endFrame": 77,
+      "durationFrames": 77,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "One dose, logged once, says very little by itself.",
+      "startFrame": 85,
+      "endFrame": 191,
+      "durationFrames": 106,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Scheduled, it repeats on the same days.",
+      "startFrame": 199,
+      "endFrame": 266,
+      "durationFrames": 67,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "The reminder shows up exactly when it's due.",
+      "startFrame": 274,
+      "endFrame": 351,
+      "durationFrames": 77,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Taken or skipped, either way gets logged.",
+      "startFrame": 359,
+      "endFrame": 434,
+      "durationFrames": 75,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Each dose becomes an event in your day.",
+      "startFrame": 442,
+      "endFrame": 509,
+      "durationFrames": 67,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Then the week and month views place it in context.",
+      "startFrame": 517,
+      "endFrame": 602,
+      "durationFrames": 85,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Not a to-do list. A running record.",
+      "startFrame": 610,
+      "endFrame": 678,
+      "durationFrames": 68,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "That's how one entry becomes a history.",
+      "startFrame": 686,
+      "endFrame": 753,
+      "durationFrames": 67,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Discover HealthGraph.",
+      "startFrame": 761,
+      "endFrame": 804,
+      "durationFrames": 43,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 804,
+  "voiceSeconds": 26.8
+}

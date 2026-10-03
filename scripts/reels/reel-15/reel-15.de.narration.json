@@ -1,0 +1,67 @@
+{
+  "id": "reel-15",
+  "language": "de",
+  "concept": "tagebuch-antwortet",
+  "cluster": "G",
+  "hook": "Und wenn dein Gesundheitstagebuch antworten könnte?",
+  "cta": "Frag deine Aufzeichnungen.",
+  "thumbnail": "Dein Gesundheitstagebuch antwortet dir",
+  "caption": "Kein Tippen, kein Suchen in Ordnern. Du sprichst über den kleinen roten Puls-Button, und dein Tagebuch findet die Antwort in deinen eigenen Einträgen. Ruhig, mit Bezug zu deinen Aufzeichnungen – Gesundheitsinfo, keine medizinische Beratung. Frag deine Aufzeichnungen. #HealthGraph #Gesundheitstagebuch #Gesundheitsdaten #DigitaleGesundheit #Tagebuch #Gesundheitswissen #DSGVO #Wellness #Gesundheitsapp",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Und wenn dein Gesundheitstagebuch antworten könnte?",
+      "beat": "der rote Sprach-Button pulsiert am unteren Rand des Explore-Rasters; eine sanfte Wellenform breitet sich aus"
+    },
+    {
+      "id": "l2",
+      "text": "Kein Tippen, kein Suchen in Ordnern.",
+      "beat": "durchscheinende Tippblasen und eine wechselnde Dokumentliste lösen sich im Bild auf"
+    },
+    {
+      "id": "l3",
+      "text": "Du sagst es einfach, über den kleinen roten Puls-Button.",
+      "beat": "Nahaufnahme des roten Sprach-Buttons auf der weißen Plakette; ein Daumen tippt, die Mikrofon-Wellenform übernimmt"
+    },
+    {
+      "id": "l4",
+      "text": "Du fragst: Wie habe ich diese Woche geschlafen?",
+      "beat": "die Voice-Check-in-Wellenform läuft; der Vorschlag 'How did I sleep this week?' tippt sich leise ein"
+    },
+    {
+      "id": "l5",
+      "text": "Dein Tagebuch hört zu und schaut nach.",
+      "beat": "die Wellenform formt sich zu einer dünnen Suchlinie, die über die Unterlagen fährt"
+    },
+    {
+      "id": "l6",
+      "text": "Es wendet sich an deine eigenen Einträge.",
+      "beat": "der AI-Chat-Screen öffnet sich; der Header 'How may I Assist you today' mit deinen Einträgen im Hintergrund"
+    },
+    {
+      "id": "l7",
+      "text": "Die Antwort kommt leise und verständlich zurück.",
+      "beat": "eine Antwortblase tippt sich langsam ein und verweist dabei auf den Tageslog (Schlaf 7h)"
+    },
+    {
+      "id": "l8",
+      "text": "Immer aus deiner eigenen Geschichte, nicht aus freien Vermutungen.",
+      "beat": "kleine Quellenmarkierungen zeigen zurück auf den Tageslog und auf Health-Graph-Knoten"
+    },
+    {
+      "id": "l9",
+      "text": "Gesundheitsinfo, aber keine medizinische Beratung.",
+      "beat": "der Hinweis 'Wellness info only. Not medical advice.' steht unter der Antwort in kleiner Schrift"
+    },
+    {
+      "id": "l10",
+      "text": "Das Tagebuch weiß, was du eingetragen hast.",
+      "beat": "Kamera ruht auf dem AI-Chat, der rote Sprach-Button pulsiert ruhig weiter"
+    },
+    {
+      "id": "l11",
+      "text": "Frag deine Aufzeichnungen.",
+      "beat": "Endkarte auf warmem Charcoal, daneben glüht der rote Puls-Button"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "reel-11",
+  "import": "Reel11",
+  "thumbnailImport": "Thumbnail11",
+  "compositions": [
+    {
+      "name": "Reel11En",
+      "lang": "en",
+      "tailFrames": 90,
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "name": "Reel11De",
+      "lang": "de",
+      "tailFrames": 90,
+      "width": 1080,
+      "height": 1920
+    }
+  ],
+  "thumbnail": {
+    "name": "Reel11Thumb",
+    "width": 1080,
+    "height": 1080
+  }
+}

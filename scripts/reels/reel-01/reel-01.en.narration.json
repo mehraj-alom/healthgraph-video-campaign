@@ -1,0 +1,23 @@
+{
+  "id": "reel-01",
+  "language": "en",
+  "concept": "fragmentation",
+  "cluster": "A",
+  "hook": "Your health data is probably everywhere.",
+  "cta": "Explore HealthGraph.",
+  "thumbnail": "Your health, finally connected",
+  "caption": "Your blood report. Your notes. Your measurements. Your medications. Your calendar. Usually they live in six different places, and no place connects them. HealthGraph keeps them as one connected history: every entry sits next to the others, so your records, measurements and days read as one thread. Your data, one place, in your hand. Explore HealthGraph at healthgraph.shop. #healthgraph #healthhistory #healthapp #wellness #selfcare #healthjourney #digitalhealth #personalhealth #datainoneplace #healthmanagement",
+  "lines": [
+    { "id": "l1", "text": "Your health data is probably everywhere.", "beat": "Title card; fragments adrift in the dark" },
+    { "id": "l2", "text": "A blood report in one folder.", "beat": "PDF fragment label floats left" },
+    { "id": "l3", "text": "Notes in your phone.", "beat": "Phone notes fragment label floats right" },
+    { "id": "l4", "text": "Medications in a third app.", "beat": "Medication fragment label drifts in" },
+    { "id": "l5", "text": "Measurements in a spreadsheet.", "beat": "Measurement fragment label drifts in" },
+    { "id": "l6", "text": "Screenshots and reminders, scattered.", "beat": "Screenshot and calendar fragments scatter on screen" },
+    { "id": "l7", "text": "Each one alone, and none of them speaking.", "beat": "Fragments held apart by a slow zoom out" },
+    { "id": "l8", "text": "Now they all arrive in one place.", "beat": "Fragments stream into the records upload screen" },
+    { "id": "l9", "text": "And each entry becomes a node in your graph.", "beat": "health-graph screen: 12 nodes, 22 connections, edges draw" },
+    { "id": "l10", "text": "Now it's one connected history.", "beat": "Push-in across the health graph to the connected nodes" },
+    { "id": "l11", "text": "Explore HealthGraph.", "beat": "End card with wordmark and CTA" }
+  ]
+}

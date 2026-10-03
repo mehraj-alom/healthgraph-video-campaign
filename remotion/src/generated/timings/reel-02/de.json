@@ -1,0 +1,90 @@
+{
+  "id": "reel-02",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Stell dir vor, du kannst deinen Gesundheitsverlauf fragen.",
+      "startFrame": 0,
+      "endFrame": 88,
+      "durationFrames": 88,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Wann habe ich meinen Blutbefund hochgeladen?",
+      "startFrame": 96,
+      "endFrame": 157,
+      "durationFrames": 61,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Es liest deinen Verlauf, bevor es antwortet.",
+      "startFrame": 165,
+      "endFrame": 240,
+      "durationFrames": 75,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Es nennt das Datum, keine Vermutung.",
+      "startFrame": 248,
+      "endFrame": 309,
+      "durationFrames": 61,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Und es kann dich dorthin nehmen.",
+      "startFrame": 317,
+      "endFrame": 363,
+      "durationFrames": 46,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Beobachte, wie es den Tag in deiner Zeitleiste öffnet.",
+      "startFrame": 371,
+      "endFrame": 453,
+      "durationFrames": 82,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Der Eintrag steht da, mit Kontext.",
+      "startFrame": 461,
+      "endFrame": 522,
+      "durationFrames": 61,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Kein langes Stochern in Ordnern mehr.",
+      "startFrame": 530,
+      "endFrame": 587,
+      "durationFrames": 57,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Die Antwort zeigt die Quelle dahinter mit.",
+      "startFrame": 595,
+      "endFrame": 656,
+      "durationFrames": 61,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Frag deine Gesundheitsunterlagen.",
+      "startFrame": 664,
+      "endFrame": 715,
+      "durationFrames": 51,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 715,
+  "voiceSeconds": 23.833
+}

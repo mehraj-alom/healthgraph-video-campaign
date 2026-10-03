@@ -1,0 +1,82 @@
+{
+  "id": "reel-18",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Hole dir nicht nur eine KI-Antwort. Finde die Quelle dahinter.",
+      "startFrame": 0,
+      "endFrame": 106,
+      "durationFrames": 106,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Stell deinen Aufzeichnungen eine echte Frage, wie diese: Wie habe ich diese Woche geschlafen?",
+      "startFrame": 114,
+      "endFrame": 255,
+      "durationFrames": 141,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Die Antwort kommt in verständlicher Sprache zurück.",
+      "startFrame": 263,
+      "endFrame": 340,
+      "durationFrames": 77,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Jede Antwort zeigt genau hin, woher sie kommt.",
+      "startFrame": 348,
+      "endFrame": 426,
+      "durationFrames": 78,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Das Schlafprotokoll, das Tagesprotokoll, die Einträge hinter der Aussage.",
+      "startFrame": 434,
+      "endFrame": 565,
+      "durationFrames": 131,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Du kannst die Quelle öffnen und selbst nachlesen.",
+      "startFrame": 573,
+      "endFrame": 652,
+      "durationFrames": 79,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Das ist der Unterschied zwischen einer Antwort und einem Beleg.",
+      "startFrame": 660,
+      "endFrame": 756,
+      "durationFrames": 96,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Kontext, nicht nur eine Chat-Antwort.",
+      "startFrame": 764,
+      "endFrame": 834,
+      "durationFrames": 70,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Frage deine Aufzeichnungen.",
+      "startFrame": 842,
+      "endFrame": 891,
+      "durationFrames": 49,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 891,
+  "voiceSeconds": 29.7
+}

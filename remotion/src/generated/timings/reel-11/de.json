@@ -1,0 +1,90 @@
+{
+  "id": "reel-11",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Stell dir vor, du fragst deine Unterlagen, statt PDFs durchzublättern.",
+      "startFrame": 0,
+      "endFrame": 124,
+      "durationFrames": 124,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Durchsuchen heißt: öffnen, scrollen, suchen, schließen.",
+      "startFrame": 132,
+      "endFrame": 244,
+      "durationFrames": 112,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Fragen ist etwas anderes.",
+      "startFrame": 252,
+      "endFrame": 289,
+      "durationFrames": 37,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Öffne den Chat. Tippe eine Frage.",
+      "startFrame": 297,
+      "endFrame": 366,
+      "durationFrames": 69,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Wie habe ich diese Woche geschlafen?",
+      "startFrame": 374,
+      "endFrame": 427,
+      "durationFrames": 53,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Die Antwort kommt zusammen mit den Unterlagen dahinter.",
+      "startFrame": 435,
+      "endFrame": 518,
+      "durationFrames": 83,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Die passende Unterlage öffnet sich direkt an der richtigen Stelle.",
+      "startFrame": 526,
+      "endFrame": 624,
+      "durationFrames": 98,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Du siehst den Kontext: Datum, Messungen, Notizen drumherum.",
+      "startFrame": 632,
+      "endFrame": 745,
+      "durationFrames": 113,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Gesundheitsinformation, keine Diagnose.",
+      "startFrame": 753,
+      "endFrame": 834,
+      "durationFrames": 81,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Frag deine Unterlagen.",
+      "startFrame": 842,
+      "endFrame": 877,
+      "durationFrames": 35,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 877,
+  "voiceSeconds": 29.233
+}

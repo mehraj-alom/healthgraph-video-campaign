@@ -1,0 +1,90 @@
+{
+  "id": "reel-12",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Der Verlauf macht die Messung nützlicher.",
+      "startFrame": 0,
+      "endFrame": 65,
+      "durationFrames": 65,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Eine Zahl ist ein Moment. Eine Reihe ist ein Bild.",
+      "startFrame": 73,
+      "endFrame": 164,
+      "durationFrames": 91,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Zum Beispiel: 67 Herzschläge pro Minute, am Finger, Qualität befriedigend.",
+      "startFrame": 172,
+      "endFrame": 320,
+      "durationFrames": 148,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Dasselbe Bild zeigt einen weiteren Wert: 80,3 Millisekunden, HRV RMSSD.",
+      "startFrame": 328,
+      "endFrame": 501,
+      "durationFrames": 173,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Eine einzelne Messung sagt allein wenig.",
+      "startFrame": 509,
+      "endFrame": 585,
+      "durationFrames": 76,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Das Bild sagt: Die Basis entsteht nach vier Morgenmessungen.",
+      "startFrame": 593,
+      "endFrame": 690,
+      "durationFrames": 97,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Jeden Morgen ein weiterer Punkt auf derselben Linie.",
+      "startFrame": 698,
+      "endFrame": 779,
+      "durationFrames": 81,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Derselbe Datenbestand. Jetzt mit Verlauf.",
+      "startFrame": 787,
+      "endFrame": 872,
+      "durationFrames": 85,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Keine Diagnose. Einfach deine Daten über die Zeit.",
+      "startFrame": 880,
+      "endFrame": 972,
+      "durationFrames": 92,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Entdecke HealthGraph.",
+      "startFrame": 980,
+      "endFrame": 1020,
+      "durationFrames": 40,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 1020,
+  "voiceSeconds": 34
+}

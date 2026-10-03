@@ -1,0 +1,62 @@
+{
+  "id": "reel-11",
+  "language": "de",
+  "concept": "ask-instead-of-searching",
+  "cluster": "B",
+  "hook": "Stell dir vor, du fragst deine Unterlagen, statt PDFs durchzublättern.",
+  "cta": "Frag deine Unterlagen.",
+  "thumbnail": "Fragen statt durch PDFs blättern",
+  "caption": "PDFs durchzublättern heißt: öffnen, scrollen, suchen, schließen. Was wäre, wenn du einfach fragen könntest? Frag, wie du diese Woche geschlafen hast, und die passende Unterlage öffnet sich direkt an der richtigen Stelle, mit Datum und Kontext. Gesundheitsinformation, keine Diagnose. #HealthGraph #Gesundheit #Gesundheitsunterlagen #Gesundheitsdaten #DigitaleGesundheit #SelfTracking #Dokumente #DeineDaten\nFrag deine Unterlagen.",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Stell dir vor, du fragst deine Unterlagen, statt PDFs durchzublättern.",
+      "beat": "ein Stapel generischer PDF-Dokumente; ein Cursor schwebt über einem leeren Suchfeld"
+    },
+    {
+      "id": "l2",
+      "text": "Durchsuchen heißt: öffnen, scrollen, suchen, schließen.",
+      "beat": "Dokumente öffnen und schließen sich schnell: öffnen, scrollen, suchen, schließen"
+    },
+    {
+      "id": "l3",
+      "text": "Fragen ist etwas anderes.",
+      "beat": "die Dokumente rücken beiseite; ein Chat-Eingabefeld blendet ruhig ein"
+    },
+    {
+      "id": "l4",
+      "text": "Öffne den Chat. Tippe eine Frage.",
+      "beat": "echter ai-chat-Screen; das Eingabefeld Ask about your health bleibt im Blick"
+    },
+    {
+      "id": "l5",
+      "text": "Wie habe ich diese Woche geschlafen?",
+      "beat": "der Vorschlag How did I sleep this week wird im ai-chat-Screen angeklickt"
+    },
+    {
+      "id": "l6",
+      "text": "Die Antwort kommt zusammen mit den Unterlagen dahinter.",
+      "beat": "eine Antwortkarte expandiert im Chat; die Quellenverweise darin leuchten auf"
+    },
+    {
+      "id": "l7",
+      "text": "Die passende Unterlage öffnet sich direkt an der richtigen Stelle.",
+      "beat": "die daily-report-Karte öffnet sich bereits an der richtigen Stelle, 3 OCT im Blick"
+    },
+    {
+      "id": "l8",
+      "text": "Du siehst den Kontext: Datum, Messungen, Notizen drumherum.",
+      "beat": "Kontextfeld um den Eintrag: Datum, benachbarte Einträge und die patterns-sleep-Kurve 420 min steady"
+    },
+    {
+      "id": "l9",
+      "text": "Gesundheitsinformation, keine Diagnose.",
+      "beat": "die kleine Zeile Wellness info only, Not medical advice bleibt ruhig im Bild"
+    },
+    {
+      "id": "l10",
+      "text": "Frag deine Unterlagen.",
+      "beat": "Endkarte: Chat mit ruhigem Cursor, CTA über dem gedämpften ai-chat-Screen"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "reel-13",
+  "language": "en",
+  "concept": "measurement-context",
+  "cluster": "E",
+  "hook": "Your health history should remember the context.",
+  "cta": "See how your health history could connect.",
+  "thumbnail": "Your health data, connected in context",
+  "caption": "A single measurement fades. The same number with its day, its logs, and its documents stays meaningful. HealthGraph keeps every entry attached to the context it was recorded in, so your history grows connected, not scattered. See how your health history could connect. #HealthGraph #HealthData #HealthTracking #HealthHistory #ConnectedHealth #HealthJournal #DigitalHealth #WellnessTracking #DailyLog",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Your health history should remember the context.",
+      "beat": "open on pulse-measurement screen, green sensor trace drawing itself; a '3 OCT' date stamp lands beside 67 BPM · FINGERTIP"
+    },
+    {
+      "id": "l2",
+      "text": "A single number, like sixty seven beats per minute, fades fast.",
+      "beat": "isolate the 67 BPM result card on pulse-measurement; everything else dims, camera holds still"
+    },
+    {
+      "id": "l3",
+      "text": "But it was measured on a specific day.",
+      "beat": "mono date label '3 OCT' draws a thin line from the measurement into the frame"
+    },
+    {
+      "id": "l4",
+      "text": "The app remembers the medication you took that morning.",
+      "beat": "medication card from home-dashboard slides in; a controlled edge line connects it to the measurement"
+    },
+    {
+      "id": "l5",
+      "text": "The daily log from the same day sits right next to it.",
+      "beat": "daily-log screen (mood 'Very good', sleep 7h) rotates in; drawn edge closes between it and the measurement"
+    },
+    {
+      "id": "l6",
+      "text": "And the documents you uploaded belong to the same story.",
+      "beat": "records-upload screen joins the group; document edge completes the motif"
+    },
+    {
+      "id": "l7",
+      "text": "In HealthGraph, each piece stays attached to its context.",
+      "beat": "the four objects (measurement, medication, daily log, document) orbit one small hub node; edges pulse"
+    },
+    {
+      "id": "l8",
+      "text": "Zoom out, and the connections become a health history.",
+      "beat": "cut to health-graph screen '12 nodes · 22 connections'; graph edges draw between nodes over time"
+    },
+    {
+      "id": "l9",
+      "text": "Nothing gets filed away and forgotten.",
+      "beat": "slow pull-back over health-graph; a node is tapped and its links highlight"
+    },
+    {
+      "id": "l10",
+      "text": "See how your health history could connect.",
+      "beat": "end card on warm charcoal with the graph motif behind the CTA"
+    }
+  ]
+}

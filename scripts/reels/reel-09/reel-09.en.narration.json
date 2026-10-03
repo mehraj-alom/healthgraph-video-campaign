@@ -1,0 +1,62 @@
+{
+  "id": "reel-09",
+  "language": "en",
+  "concept": "not-a-spreadsheet",
+  "cluster": "H",
+  "hook": "Your health isn't a spreadsheet.",
+  "cta": "See how your health history could connect.",
+  "thumbnail": "Your health, not a spreadsheet",
+  "caption": "Your health data isn't rows and columns. It's a story with dates, and in the Health Graph that story has a shape you can move through. Drag to travel through time, pinch to zoom. Twelve nodes, twenty two connections, all your own days. See how your health history could connect. #HealthGraph #HealthData #HealthHistory #DigitalHealth #DataVisualization #SelfTracking #PersonalHealth #ConnectedHealth",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Your health isn't a spreadsheet.",
+      "beat": "abstract spreadsheet-style grid of generic health entries fills the frame, rows flickering"
+    },
+    {
+      "id": "l2",
+      "text": "It's not rows and columns. It's a story with dates.",
+      "beat": "cell values blur into highlighted dates; the grid loses its spreadsheet feel"
+    },
+    {
+      "id": "l3",
+      "text": "Every visit, every measurement, every logged day lives in your history.",
+      "beat": "scattered document, measurement, and sleep cards drift in from the frame edges"
+    },
+    {
+      "id": "l4",
+      "text": "In a spreadsheet, that story hides in cells.",
+      "beat": "the cards snap into a rigid table grid, then dim under cold light"
+    },
+    {
+      "id": "l5",
+      "text": "In a graph, it has a shape.",
+      "beat": "the grid dissolves; glowing edges begin to draw between the cards"
+    },
+    {
+      "id": "l6",
+      "text": "This is the Health Graph: twelve nodes, twenty two connections.",
+      "beat": "real health-graph screen reveals, showing 12 nodes and 22 connections"
+    },
+    {
+      "id": "l7",
+      "text": "All of it from your own logged days.",
+      "beat": "slow push-in on health-graph nodes; the legend Event, Visit, Heart, Sleep, Nutrition stays in frame"
+    },
+    {
+      "id": "l8",
+      "text": "Drag, and travel through time. Pinch, and zoom into one day.",
+      "beat": "drag gesture on the health-graph, nodes slide through time; pinch gesture zooms into the 3 OCT node"
+    },
+    {
+      "id": "l9",
+      "text": "Same data. Now you can see it move.",
+      "beat": "split compare: faded spreadsheet on the left, living graph on the right"
+    },
+    {
+      "id": "l10",
+      "text": "See how your health history could connect.",
+      "beat": "end card on warm charcoal, graph motif behind the CTA"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "reel-11",
+  "language": "en",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Imagine asking your health records instead of searching through PDFs.",
+      "startFrame": 0,
+      "endFrame": 111,
+      "durationFrames": 111,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Searching is open, scroll, squint, close.",
+      "startFrame": 119,
+      "endFrame": 204,
+      "durationFrames": 85,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Asking is different.",
+      "startFrame": 212,
+      "endFrame": 245,
+      "durationFrames": 33,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Open the chat. Type a question.",
+      "startFrame": 253,
+      "endFrame": 312,
+      "durationFrames": 59,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "How did I sleep this week?",
+      "startFrame": 320,
+      "endFrame": 367,
+      "durationFrames": 47,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "The answer lands with the records behind it.",
+      "startFrame": 375,
+      "endFrame": 448,
+      "durationFrames": 73,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "The matching record opens, already at the right place.",
+      "startFrame": 456,
+      "endFrame": 550,
+      "durationFrames": 94,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "You see the context: date, measurements, notes around it.",
+      "startFrame": 558,
+      "endFrame": 667,
+      "durationFrames": 109,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Wellness information, not a diagnosis.",
+      "startFrame": 675,
+      "endFrame": 751,
+      "durationFrames": 76,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Ask your records.",
+      "startFrame": 759,
+      "endFrame": 792,
+      "durationFrames": 33,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 792,
+  "voiceSeconds": 26.4
+}

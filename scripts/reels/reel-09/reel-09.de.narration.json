@@ -1,0 +1,62 @@
+{
+  "id": "reel-09",
+  "language": "de",
+  "concept": "not-a-spreadsheet",
+  "cluster": "H",
+  "hook": "Deine Gesundheit ist keine Tabelle.",
+  "cta": "Sieh nach, wie sich dein Gesundheitsverlauf verbinden könnte.",
+  "thumbnail": "Deine Gesundheit ist keine Tabelle",
+  "caption": "Deine Gesundheitsdaten sind keine Zeilen und Spalten. Sie sind eine Geschichte mit Datum, und im Health Graph hat diese Geschichte eine Form, durch die du dich bewegen kannst. Ziehen, um durch die Zeit zu reisen. Reinzoomen auf einen Tag. Zwölf Knoten, zweiundzwanzig Verbindungen, deine eigenen Tage. #HealthGraph #Gesundheit #Gesundheitsdaten #DigitaleGesundheit #Datenvisualisierung #SelfTracking #Gesundheitsverlauf #DeineDaten\nSieh nach, wie sich dein Gesundheitsverlauf verbinden könnte.",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Deine Gesundheit ist keine Tabelle.",
+      "beat": "abstraktes Tabellenraster mit generischen Gesundheitseinträgen füllt den Bildausschnitt, Zeilen flackern"
+    },
+    {
+      "id": "l2",
+      "text": "Keine Zeilen, keine Spalten. Eine Geschichte mit Datum.",
+      "beat": "Zellenwerte werden zu hervorgehobenen Daten; das Raster verliert seinen Tabellencharakter"
+    },
+    {
+      "id": "l3",
+      "text": "Jeder Besuch, jede Messung, jeder protokollierte Tag ist Teil deiner Geschichte.",
+      "beat": "gestreute Dokument-, Mess- und Schlafkarten gleiten von den Bildrändern ein"
+    },
+    {
+      "id": "l4",
+      "text": "In einer Tabelle versteckt sich diese Geschichte in Zellen.",
+      "beat": "die Karten rutschen in ein starres Tabellenraster und dimmen unter kaltem Licht"
+    },
+    {
+      "id": "l5",
+      "text": "Im Graphen hat sie eine Form.",
+      "beat": "das Raster löst sich auf; leuchtende Kanten beginnen, sich zwischen den Karten zu zeichnen"
+    },
+    {
+      "id": "l6",
+      "text": "Das ist der Health Graph: zwölf Knoten, zweiundzwanzig Verbindungen.",
+      "beat": "echter health-graph-Screen erscheint und zeigt 12 nodes und 22 connections"
+    },
+    {
+      "id": "l7",
+      "text": "Alle aus deinen eigenen Tagen.",
+      "beat": "langsames Herangezoomen an die Health-Graph-Knoten; die Legende Event, Visit, Heart, Sleep, Nutrition bleibt im Bild"
+    },
+    {
+      "id": "l8",
+      "text": "Ziehen, um durch die Zeit zu reisen. Reinzoomen auf einen Tag.",
+      "beat": "Zug-Geste auf dem Health Graph, die Knoten gleiten durch die Zeit; Pinch-Geste zoomt auf den Knoten 3 OCT"
+    },
+    {
+      "id": "l9",
+      "text": "Denselbe Datenbestand. Jetzt sieht man ihn bewegen.",
+      "beat": "Vergleich geteilter Bildfläche: links die verblasste Tabelle, rechts der lebendige Graph"
+    },
+    {
+      "id": "l10",
+      "text": "Sieh nach, wie sich dein Gesundheitsverlauf verbinden könnte.",
+      "beat": "Endkarte auf warmem Anthrazit, Graph-Motiv hinter dem CTA"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "reel-16",
+  "language": "en",
+  "concept": "document-to-history",
+  "cluster": "D",
+  "hook": "From document to health history.",
+  "cta": "Discover HealthGraph at healthgraph.shop.",
+  "thumbnail": "From document to health history",
+  "caption": "From a single document to a connected health history: extraction, normalization, a structured event, then the graph. Precise, source-aware, no manual entry. Discover HealthGraph at healthgraph.shop. #HealthGraph #HealthData #DataPipeline #StructuredData #HealthTimeline #HealthHistory #DigitalHealth #HealthJournal",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "From document to health history.",
+      "beat": "records-upload screen; a mono data label 'PDF · max 50 MB' sits on an incoming file frame, instrumentation-style"
+    },
+    {
+      "id": "l2",
+      "text": "Stage one, a document arrives.",
+      "beat": "the file frame docks into the pipeline; label 'STAGE 01 / EXTRACT' stamps on"
+    },
+    {
+      "id": "l3",
+      "text": "The app extracts the fields: dates, values, units.",
+      "beat": "field labels (DATE, VALUE, UNIT) parse out of the document rows and link with thin lines"
+    },
+    {
+      "id": "l4",
+      "text": "Stage two, normalization.",
+      "beat": "label 'STAGE 02 / NORMALIZE' stamps; values realign into a mono column grid"
+    },
+    {
+      "id": "l5",
+      "text": "Dates become timestamps, values become consistent measurements.",
+      "beat": "date strings snap into timestamp ticks; numbers align to the baseline with tick marks"
+    },
+    {
+      "id": "l6",
+      "text": "Stage three, a structured health event.",
+      "beat": "label 'STAGE 03 / EVENT'; an event card assembles from parts: date, value, source document"
+    },
+    {
+      "id": "l7",
+      "text": "Each event keeps a link to the original document.",
+      "beat": "a source-link edge draws from the event card back to the document frame; a mono label confirms it"
+    },
+    {
+      "id": "l8",
+      "text": "Stage four, the event joins the timeline.",
+      "beat": "label 'STAGE 04 / TIMELINE'; the event lands between 2 OCT and 3 OCT on a growing timeline"
+    },
+    {
+      "id": "l9",
+      "text": "The graph updates: 12 nodes, 22 connections.",
+      "beat": "cut to health-graph screen; a new node connects, edges draw between nodes"
+    },
+    {
+      "id": "l10",
+      "text": "No manual entry, no lost files.",
+      "beat": "a tidy grid of event cards; the document frame glows in the 'Past uploads' list"
+    },
+    {
+      "id": "l11",
+      "text": "Discover HealthGraph at healthgraph.shop.",
+      "beat": "end card: the full pipeline strip (doc, extract, event, graph) behind the CTA"
+    }
+  ]
+}

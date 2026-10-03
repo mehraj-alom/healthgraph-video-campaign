@@ -1,0 +1,62 @@
+{
+  "id": "reel-12",
+  "language": "en",
+  "concept": "measurements-over-time",
+  "cluster": "E",
+  "hook": "A health measurement is more useful when you can see it over time.",
+  "cta": "Discover HealthGraph.",
+  "thumbnail": "One reading, then over time",
+  "caption": "One number is a moment. A series is a picture. 67 beats per minute, fingertip, quality fair, 80.3 milliseconds HRV RMSSD: one reading on its own. The baseline builds after four morning readings, and every morning adds one more point. No diagnosis, just your data over time. Discover HealthGraph. #HealthGraph #PulseCheck #HeartRate #HRV #SelfTracking #HealthData #MeasureOverTime #DigitalHealth",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "A health measurement is more useful when you can see it over time.",
+      "beat": "a fingertip on the sensor; the single number 67 BPM appears, then fades out"
+    },
+    {
+      "id": "l2",
+      "text": "One number is a moment. A series is a picture.",
+      "beat": "one big number alone on the dark background, then it becomes a dot on a small time axis"
+    },
+    {
+      "id": "l3",
+      "text": "Like this: 67 beats per minute, fingertip, quality fair.",
+      "beat": "real pulse-measurement screen: 67 BPM, FINGERTIP, Quality Fair, 60 seconds"
+    },
+    {
+      "id": "l4",
+      "text": "The same screen shows one more value: 80.3 milliseconds, HRV RMSSD.",
+      "beat": "focus pulls to the second value block: 80.3 MS, HRV RMSSD"
+    },
+    {
+      "id": "l5",
+      "text": "One reading tells you little on its own.",
+      "beat": "the number dims again; emphasis shifts to the series, not the single point"
+    },
+    {
+      "id": "l6",
+      "text": "The screen says: the baseline builds after four morning readings.",
+      "beat": "the line Baseline builds after 4 morning readings is highlighted on the pulse-measurement screen"
+    },
+    {
+      "id": "l7",
+      "text": "Every morning adds one more point to the same line.",
+      "beat": "a reproduced time-axis chart: one new dot lands per morning, generic labels only"
+    },
+    {
+      "id": "l8",
+      "text": "Same data. Now it has direction.",
+      "beat": "the dots connect into a calm dotted line across the chart"
+    },
+    {
+      "id": "l9",
+      "text": "No diagnosis. Just your data over time.",
+      "beat": "camera holds on the finished line; no labels other than the real values"
+    },
+    {
+      "id": "l10",
+      "text": "Discover HealthGraph.",
+      "beat": "end card on warm charcoal, the dotted line motif behind the CTA"
+    }
+  ]
+}

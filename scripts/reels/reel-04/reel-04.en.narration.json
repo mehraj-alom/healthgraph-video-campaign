@@ -1,0 +1,24 @@
+{
+  "id": "reel-04",
+  "language": "en",
+  "concept": "document-to-timeline",
+  "cluster": "D",
+  "hook": "Imagine your medical documents actually becoming part of your timeline.",
+  "cta": "See how your health history could connect.",
+  "thumbnail": "From paper to timeline",
+  "caption": "A report is more than a file: it holds a moment of your health. Upload it to your records, and HealthGraph turns it into a structured entry in your graph, with its place in time. From document to timeline, your medical documents become part of your history. See how your health history could connect. Explore HealthGraph at healthgraph.shop. #healthgraph #healthtimeline #medicalrecords #healthhistory #digitalhealth #personalhealth #selfcare #healthapp #documenttohistory #connectedhistory",
+  "lines": [
+    { "id": "l1", "text": "Imagine your medical documents actually becoming part of your timeline.", "beat": "Title card: documents adrift in the dark" },
+    { "id": "l2", "text": "A report is more than a file.", "beat": "Document close-up, separating from a stack of fragments" },
+    { "id": "l3", "text": "It holds a moment of your health.", "beat": "Document pauses, softly highlighted" },
+    { "id": "l4", "text": "Upload it to your records.", "beat": "records upload screen: PDF drops in, teal upload button" },
+    { "id": "l5", "text": "The app reads the structured parts.", "beat": "Extraction: highlight sweep across the document text" },
+    { "id": "l6", "text": "Date, type, value: a clean entry.", "beat": "Structured fields appear as data labels: date, type, value" },
+    { "id": "l7", "text": "The document becomes a node in your graph.", "beat": "health-graph screen: new node appears, 'Tap a node for links'" },
+    { "id": "l8", "text": "And that node takes its place in time.", "beat": "Node settles on the time axis, 'Drag to travel through time' hint visible" },
+    { "id": "l9", "text": "Next to the visit, the pulse, the sleep.", "beat": "health-graph neighborhood: visit, heart and sleep nodes adjacent" },
+    { "id": "l10", "text": "Drag across time: the day is now linked.", "beat": "Camera drags across the graph through time" },
+    { "id": "l11", "text": "From paper to part of your history.", "beat": "Document morphs into its node, supporting 3D moment" },
+    { "id": "l12", "text": "See how your health history could connect.", "beat": "End card with wordmark and CTA" }
+  ]
+}

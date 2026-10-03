@@ -1,0 +1,106 @@
+{
+  "id": "reel-03",
+  "language": "en",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "This isn't another health tracker.",
+      "startFrame": 0,
+      "endFrame": 55,
+      "durationFrames": 55,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "A tracker counts one thing at a time.",
+      "startFrame": 63,
+      "endFrame": 124,
+      "durationFrames": 61,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Sleep here, food there, steps somewhere else.",
+      "startFrame": 132,
+      "endFrame": 224,
+      "durationFrames": 92,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "It tells you where you stand today.",
+      "startFrame": 232,
+      "endFrame": 290,
+      "durationFrames": 58,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "It rarely shows you where you've been.",
+      "startFrame": 298,
+      "endFrame": 357,
+      "durationFrames": 59,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "This is a connected history instead.",
+      "startFrame": 365,
+      "endFrame": 425,
+      "durationFrames": 60,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Every entry sits next to the others.",
+      "startFrame": 433,
+      "endFrame": 499,
+      "durationFrames": 66,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "The visit connects to the pulse.",
+      "startFrame": 507,
+      "endFrame": 561,
+      "durationFrames": 54,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "The pulse connects to the day.",
+      "startFrame": 569,
+      "endFrame": 620,
+      "durationFrames": 51,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "You see your history as one thread.",
+      "startFrame": 628,
+      "endFrame": 685,
+      "durationFrames": 57,
+      "gapBefore": 8
+    },
+    {
+      "id": "l11",
+      "text": "That's the difference: context over counting.",
+      "startFrame": 693,
+      "endFrame": 776,
+      "durationFrames": 83,
+      "gapBefore": 8
+    },
+    {
+      "id": "l12",
+      "text": "Discover HealthGraph.",
+      "startFrame": 784,
+      "endFrame": 823,
+      "durationFrames": 39,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 823,
+  "voiceSeconds": 27.433
+}

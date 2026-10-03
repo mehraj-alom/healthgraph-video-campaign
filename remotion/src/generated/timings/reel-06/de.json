@@ -1,0 +1,90 @@
+{
+  "id": "reel-06",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Weißt du noch, wann du diesen Bericht hochgeladen hast?",
+      "startFrame": 0,
+      "endFrame": 74,
+      "durationFrames": 74,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Dann frag einfach, statt in Ordnern zu suchen.",
+      "startFrame": 82,
+      "endFrame": 156,
+      "durationFrames": 74,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Zwei KI-Nachrichten pro Monat sind kostenlos.",
+      "startFrame": 164,
+      "endFrame": 250,
+      "durationFrames": 86,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Die Antwort nennt gleich das Datum mit.",
+      "startFrame": 258,
+      "endFrame": 323,
+      "durationFrames": 65,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Die Zeitachse gleitet zu diesem Tag.",
+      "startFrame": 331,
+      "endFrame": 391,
+      "durationFrames": 60,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Die Tagesseite öffnet sich von selbst.",
+      "startFrame": 399,
+      "endFrame": 461,
+      "durationFrames": 62,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Und die Belege werden direkt dort hervorgehoben.",
+      "startFrame": 469,
+      "endFrame": 538,
+      "durationFrames": 69,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Stimmung: sehr gut. Schlaf: sieben Stunden.",
+      "startFrame": 546,
+      "endFrame": 631,
+      "durationFrames": 85,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Jede Antwort verweist an einen Ort deines Verlaufs.",
+      "startFrame": 639,
+      "endFrame": 726,
+      "durationFrames": 87,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Frag deine Aufzeichnungen.",
+      "startFrame": 734,
+      "endFrame": 777,
+      "durationFrames": 43,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 777,
+  "voiceSeconds": 25.9
+}

@@ -1,0 +1,90 @@
+{
+  "id": "reel-08",
+  "language": "de",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Was ist mit meiner Gesundheit am Dienstag passiert?",
+      "startFrame": 0,
+      "endFrame": 77,
+      "durationFrames": 77,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Bei HealthGraph ist die Antwort ein Tagesbericht.",
+      "startFrame": 85,
+      "endFrame": 164,
+      "durationFrames": 79,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Öffne ihn, und der Tag stellt sich vor.",
+      "startFrame": 172,
+      "endFrame": 235,
+      "durationFrames": 63,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Puls: 59 Schläge pro Minute, um 17:14 Uhr.",
+      "startFrame": 243,
+      "endFrame": 364,
+      "durationFrames": 121,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Dazu ein Messwert am Finger: 61 Schläge pro Minute.",
+      "startFrame": 372,
+      "endFrame": 475,
+      "durationFrames": 103,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "An diesem Tag: acht Einträge erfasst.",
+      "startFrame": 483,
+      "endFrame": 550,
+      "durationFrames": 67,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Sechs Protokolle liegen dahinter, ein Antippen entfernt.",
+      "startFrame": 558,
+      "endFrame": 662,
+      "durationFrames": 104,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Kein Suchen in verschiedenen Apps. Pro Tag eine Seite.",
+      "startFrame": 670,
+      "endFrame": 754,
+      "durationFrames": 84,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "So sieht ein Gesundheitstag in voller Länge aus.",
+      "startFrame": 762,
+      "endFrame": 844,
+      "durationFrames": 82,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Entdecke das Gesundheits-Tagebuch auf healthgraph.shop.",
+      "startFrame": 852,
+      "endFrame": 942,
+      "durationFrames": 90,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 942,
+  "voiceSeconds": 31.4
+}

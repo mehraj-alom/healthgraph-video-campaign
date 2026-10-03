@@ -1,0 +1,90 @@
+{
+  "id": "reel-02",
+  "language": "en",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "What if you could ask your own health history?",
+      "startFrame": 0,
+      "endFrame": 67,
+      "durationFrames": 67,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "When did I upload my blood report?",
+      "startFrame": 75,
+      "endFrame": 137,
+      "durationFrames": 62,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "It reads your own history to answer.",
+      "startFrame": 145,
+      "endFrame": 211,
+      "durationFrames": 66,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "It gives the date, not a guess.",
+      "startFrame": 219,
+      "endFrame": 284,
+      "durationFrames": 65,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "And it can take you there.",
+      "startFrame": 292,
+      "endFrame": 341,
+      "durationFrames": 49,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Watch it open the day in your timeline.",
+      "startFrame": 349,
+      "endFrame": 412,
+      "durationFrames": 63,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "The entry is right there, in context.",
+      "startFrame": 420,
+      "endFrame": 488,
+      "durationFrames": 68,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "No more hunting through folders by hand.",
+      "startFrame": 496,
+      "endFrame": 566,
+      "durationFrames": 70,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "The answer comes with the record behind it.",
+      "startFrame": 574,
+      "endFrame": 641,
+      "durationFrames": 67,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Ask your records.",
+      "startFrame": 649,
+      "endFrame": 681,
+      "durationFrames": 32,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 681,
+  "voiceSeconds": 22.7
+}

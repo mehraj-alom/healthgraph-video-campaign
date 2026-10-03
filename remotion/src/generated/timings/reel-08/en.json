@@ -1,0 +1,90 @@
+{
+  "id": "reel-08",
+  "language": "en",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "What happened to my health on Tuesday?",
+      "startFrame": 0,
+      "endFrame": 58,
+      "durationFrames": 58,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "On HealthGraph, the answer is a daily report.",
+      "startFrame": 66,
+      "endFrame": 144,
+      "durationFrames": 78,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Open it, and the day lays itself out.",
+      "startFrame": 152,
+      "endFrame": 214,
+      "durationFrames": 62,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Pulse: 59 beats per minute, fair, at 5:14 PM.",
+      "startFrame": 222,
+      "endFrame": 348,
+      "durationFrames": 126,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "Plus a fingertip reading: 61 beats, also fair.",
+      "startFrame": 356,
+      "endFrame": 466,
+      "durationFrames": 110,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Eight entries were logged that day.",
+      "startFrame": 474,
+      "endFrame": 538,
+      "durationFrames": 64,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Six logs sit behind it, one tap away.",
+      "startFrame": 546,
+      "endFrame": 637,
+      "durationFrames": 91,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "No scrolling through apps. One page per day.",
+      "startFrame": 645,
+      "endFrame": 731,
+      "durationFrames": 86,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "That's what a day of health looks like, told in full.",
+      "startFrame": 739,
+      "endFrame": 834,
+      "durationFrames": 95,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Explore the health diary at healthgraph.shop.",
+      "startFrame": 842,
+      "endFrame": 931,
+      "durationFrames": 89,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 931,
+  "voiceSeconds": 31.033
+}

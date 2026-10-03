@@ -1,0 +1,62 @@
+{
+  "id": "reel-07",
+  "language": "de",
+  "concept": "medication-to-history",
+  "cluster": "F",
+  "hook": "Ein einzelner Medikamenteneintrag ist noch kein Verlauf.",
+  "cta": "Entdecke HealthGraph.",
+  "thumbnail": "Aus einem Eintrag ein Verlauf",
+  "caption": "Eine Dosis, einmal notiert, ist nur ein Eintrag. Geplant wird daraus ein fortlaufender Verlauf: die Erinnerung kommt pünktlich, eingenommen oder ausgelassen wird festgehalten, jede Einnahme wird zu einem Ereignis im Tagesverlauf, und die Wochen- und Monatsansichten ordnen sie ein. Keine Aufgabenliste, sondern ein Verlauf. #HealthGraph #Medikamente #Gesundheitsverlauf #Tagesbericht #Wohlbefinden #DeineDaten #Selbsterkenntnis #DigitalGesund #Vorbeugung #Gesundheits-App\nEntdecke HealthGraph.",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Ein einzelner Medikamenteneintrag ist noch kein Verlauf.",
+      "beat": "home-dashboard: Die echte Medikamenten-Karte, Add one to star, liegt allein mitten im Bild, bewusst viel Leerraum"
+    },
+    {
+      "id": "l2",
+      "text": "Eine Dosis, einmal notiert, sagt für sich wenig.",
+      "beat": "Sanfter Zoom auf die Medikamenten-Karte; eine eingenommene Dosis, der Rest des Screens ruhig"
+    },
+    {
+      "id": "l3",
+      "text": "Geplant wiederholt er sich an den gleichen Tagen.",
+      "beat": "Dasselbe Medikamenten-Karte erhält einen Termin-Marker, Motiv: ein ruhiges wiederkehrendes Kalender-Pünktchen, keine erfundenen Werte"
+    },
+    {
+      "id": "l4",
+      "text": "Die Erinnerung kommt genau dann, wenn die Einnahme fällig ist.",
+      "beat": "Die Medikamenten-Karte pulsiert im fälligen Moment dezent mit dem roten Voice-Puls-Motiv"
+    },
+    {
+      "id": "l5",
+      "text": "Ob eingenommen oder ausgelassen, beides wird festgehalten.",
+      "beat": "Die Medikamenten-Karte schaltet zwischen dem Eingenommen-Zustand und dem Ausgelassen-Zustand, beide werden erfasst"
+    },
+    {
+      "id": "l6",
+      "text": "Jede Einnahme wird zu einem Ereignis in deinem Tag.",
+      "beat": "Die erfasste Dosis rutscht in die Zeile Recent history des daily-log, passend zum Muster der 3 events"
+    },
+    {
+      "id": "l7",
+      "text": "Dann ordnen die Wochen- und Monatsansichten sie in den Verlauf ein.",
+      "beat": "home-dashboard: Your patterns, Tabs Week und Month wechseln, echte Mustergrafik Sleep duration 420min steady als Kontextgrafik"
+    },
+    {
+      "id": "l8",
+      "text": "Keine Aufgabenliste, sondern ein fortlaufender Verlauf.",
+      "beat": "Nebeneinander: Medikamenten-Karte und Mustergrafiken, ein einzelner Eintrag zeigt sich in seiner Umgebung"
+    },
+    {
+      "id": "l9",
+      "text": "So wird aus einem Eintrag ein Verlauf.",
+      "beat": "Zurückzoomen auf das komplette home-dashboard: Karte und Muster zusammen, die einzelne Dosis nun im Kontext"
+    },
+    {
+      "id": "l10",
+      "text": "Entdecke HealthGraph.",
+      "beat": "Endkarte: CTA über dem gedämpften home-dashboard, Voice-Knopf unten in Ruhe"
+    }
+  ]
+}

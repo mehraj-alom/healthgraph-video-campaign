@@ -1,0 +1,90 @@
+{
+  "id": "reel-09",
+  "language": "en",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Your health isn't a spreadsheet.",
+      "startFrame": 0,
+      "endFrame": 43,
+      "durationFrames": 43,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "It's not rows and columns. It's a story with dates.",
+      "startFrame": 51,
+      "endFrame": 145,
+      "durationFrames": 94,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Every visit, every measurement, every logged day lives in your history.",
+      "startFrame": 153,
+      "endFrame": 287,
+      "durationFrames": 134,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "In a spreadsheet, that story hides in cells.",
+      "startFrame": 295,
+      "endFrame": 379,
+      "durationFrames": 84,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "In a graph, it has a shape.",
+      "startFrame": 387,
+      "endFrame": 441,
+      "durationFrames": 54,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "This is the Health Graph: twelve nodes, twenty two connections.",
+      "startFrame": 449,
+      "endFrame": 556,
+      "durationFrames": 107,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "All of it from your own logged days.",
+      "startFrame": 564,
+      "endFrame": 626,
+      "durationFrames": 62,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Drag, and travel through time. Pinch, and zoom into one day.",
+      "startFrame": 634,
+      "endFrame": 756,
+      "durationFrames": 122,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "Same data. Now you can see it move.",
+      "startFrame": 764,
+      "endFrame": 836,
+      "durationFrames": 72,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "See how your health history could connect.",
+      "startFrame": 844,
+      "endFrame": 905,
+      "durationFrames": 61,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 905,
+  "voiceSeconds": 30.167
+}

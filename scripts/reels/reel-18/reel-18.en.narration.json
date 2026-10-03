@@ -1,0 +1,21 @@
+{
+  "id": "reel-18",
+  "language": "en",
+  "concept": "answer-vs-record",
+  "cluster": "B",
+  "hook": "Don't just get an AI answer. Find the record behind it.",
+  "cta": "Ask your records.",
+  "thumbnail": "The record behind the answer",
+  "caption": "An AI answer is only as good as what you can check behind it. Ask your records, get the answer, then open the entries it came from. That's context, not just a chat reply. Ask your records. #healthgraph #askyourrecords #selftracking #evidencebased #healthjournal #digitaldiary #transparency #healthtech #personalhealth #contextmatters",
+  "lines": [
+    { "id": "l1", "text": "Don't just get an AI answer. Find the record behind it.", "beat": "ai-chat screen: suggested card How did I sleep this week is tapped, chat thread opens, Wellness info only disclaimer visible" },
+    { "id": "l2", "text": "Ask your records a real question, like how you slept this week.", "beat": "ai-chat: question types into the Ask about your health input, 2 AI messages per month FREE badge visible" },
+    { "id": "l3", "text": "The answer comes back in plain language.", "beat": "ai-chat: reply card slides in over the dark chat background" },
+    { "id": "l4", "text": "But every answer points back to where it came from.", "beat": "reply card dissolves into a row of evidence cards, green connector lines draw from the answer to each source" },
+    { "id": "l5", "text": "The sleep log, the daily log, the entries behind the claim.", "beat": "daily-log and patterns-sleep screens slide in as source cards: sleep 7h, Sleep duration 420min steady" },
+    { "id": "l6", "text": "You can open the source and check it yourself.", "beat": "paper report opens: daily-report cream card 3 OCT, Pulse 59 BPM entry highlighted, Log x6 footer" },
+    { "id": "l7", "text": "That's the difference between an answer and evidence.", "beat": "split view: answer card left, source cards right, connector lines hold, hierarchy clear" },
+    { "id": "l8", "text": "Context, not just a chat reply.", "beat": "health-graph: 2 OCT and 3 OCT nodes link up with the source entries, filter chips All Visit Heart Sleep Nutrition visible" },
+    { "id": "l9", "text": "Ask your records.", "beat": "end card: healthgraph wordmark, Ask your records" }
+  ]
+}

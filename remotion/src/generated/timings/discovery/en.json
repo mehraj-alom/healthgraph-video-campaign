@@ -1,0 +1,322 @@
+{
+  "id": "discovery",
+  "language": "en",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "Your health history doesn't live in one place.",
+      "startFrame": 0,
+      "endFrame": 68,
+      "durationFrames": 68,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "And the pieces don't always make sense when they're separated.",
+      "startFrame": 76,
+      "endFrame": 169,
+      "durationFrames": 93,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "A report here, a note there, a measurement somewhere else entirely.",
+      "startFrame": 177,
+      "endFrame": 301,
+      "durationFrames": 124,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "Meds, photos, daily entries, each one floating alone, disconnected from the rest.",
+      "startFrame": 309,
+      "endFrame": 464,
+      "durationFrames": 155,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "None of it connects to the other, and nobody keeps the whole.",
+      "startFrame": 472,
+      "endFrame": 578,
+      "durationFrames": 106,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "You remember the result, but not the day you uploaded it.",
+      "startFrame": 586,
+      "endFrame": 673,
+      "durationFrames": 87,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "What you took, when you took it, what has changed since.",
+      "startFrame": 681,
+      "endFrame": 778,
+      "durationFrames": 97,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "So the past only comes back in fragments, in dates you half remember.",
+      "startFrame": 786,
+      "endFrame": 896,
+      "durationFrames": 110,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "HealthGraph starts with a different idea about how this could work.",
+      "startFrame": 904,
+      "endFrame": 1002,
+      "durationFrames": 98,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "A document becomes a record. A moment becomes a point on a timeline.",
+      "startFrame": 1010,
+      "endFrame": 1135,
+      "durationFrames": 125,
+      "gapBefore": 8
+    },
+    {
+      "id": "l11",
+      "text": "A measurement finds its day. A medication finds its history.",
+      "startFrame": 1143,
+      "endFrame": 1255,
+      "durationFrames": 112,
+      "gapBefore": 8
+    },
+    {
+      "id": "l12",
+      "text": "Entries that never spoke to each other now quietly connect.",
+      "startFrame": 1263,
+      "endFrame": 1360,
+      "durationFrames": 97,
+      "gapBefore": 8
+    },
+    {
+      "id": "l13",
+      "text": "Each keeps its date, its source, and its place in the story.",
+      "startFrame": 1368,
+      "endFrame": 1471,
+      "durationFrames": 103,
+      "gapBefore": 8
+    },
+    {
+      "id": "l14",
+      "text": "Draw it out, and your whole history starts to look like a graph.",
+      "startFrame": 1479,
+      "endFrame": 1579,
+      "durationFrames": 100,
+      "gapBefore": 8
+    },
+    {
+      "id": "l15",
+      "text": "Open the app, and today is already here, with your patterns by week, by year.",
+      "startFrame": 1587,
+      "endFrame": 1727,
+      "durationFrames": 140,
+      "gapBefore": 8
+    },
+    {
+      "id": "l16",
+      "text": "The health areas open one after another, each carrying its own history.",
+      "startFrame": 1735,
+      "endFrame": 1855,
+      "durationFrames": 120,
+      "gapBefore": 8
+    },
+    {
+      "id": "l17",
+      "text": "Records, documents, medications, measurements, flowing together instead of stacked in separate apps.",
+      "startFrame": 1863,
+      "endFrame": 2054,
+      "durationFrames": 191,
+      "gapBefore": 8
+    },
+    {
+      "id": "l18",
+      "text": "Not a feature list. A flow, the way your health actually moves day to day.",
+      "startFrame": 2062,
+      "endFrame": 2191,
+      "durationFrames": 129,
+      "gapBefore": 8
+    },
+    {
+      "id": "l19",
+      "text": "The timeline runs underneath it all, quiet and continuous.",
+      "startFrame": 2199,
+      "endFrame": 2302,
+      "durationFrames": 103,
+      "gapBefore": 8
+    },
+    {
+      "id": "l20",
+      "text": "Every day becomes a report. Not a card, a document.",
+      "startFrame": 2310,
+      "endFrame": 2409,
+      "durationFrames": 99,
+      "gapBefore": 8
+    },
+    {
+      "id": "l21",
+      "text": "The whole timeline folds down into one full, ordinary day.",
+      "startFrame": 2417,
+      "endFrame": 2526,
+      "durationFrames": 109,
+      "gapBefore": 8
+    },
+    {
+      "id": "l22",
+      "text": "Pulse, sleep, meals, mood, all logged across the hours of the day.",
+      "startFrame": 2534,
+      "endFrame": 2673,
+      "durationFrames": 139,
+      "gapBefore": 8
+    },
+    {
+      "id": "l23",
+      "text": "Select a day, and the paper report rises and opens.",
+      "startFrame": 2681,
+      "endFrame": 2782,
+      "durationFrames": 101,
+      "gapBefore": 8
+    },
+    {
+      "id": "l24",
+      "text": "An archive of days, your own history, one page at a time.",
+      "startFrame": 2790,
+      "endFrame": 2904,
+      "durationFrames": 114,
+      "gapBefore": 8
+    },
+    {
+      "id": "l25",
+      "text": "Ask your records: when did I upload my blood report?",
+      "startFrame": 2912,
+      "endFrame": 3009,
+      "durationFrames": 97,
+      "gapBefore": 8
+    },
+    {
+      "id": "l26",
+      "text": "The answer comes back, and the timeline moves to that day.",
+      "startFrame": 3017,
+      "endFrame": 3121,
+      "durationFrames": 104,
+      "gapBefore": 8
+    },
+    {
+      "id": "l27",
+      "text": "The daily report opens, and the record is right there, highlighted.",
+      "startFrame": 3129,
+      "endFrame": 3245,
+      "durationFrames": 116,
+      "gapBefore": 8
+    },
+    {
+      "id": "l28",
+      "text": "The answer arrives with the record behind it, not just text.",
+      "startFrame": 3253,
+      "endFrame": 3366,
+      "durationFrames": 113,
+      "gapBefore": 8
+    },
+    {
+      "id": "l29",
+      "text": "Evidence you can open, verify, and return to whenever you need it.",
+      "startFrame": 3374,
+      "endFrame": 3491,
+      "durationFrames": 117,
+      "gapBefore": 8
+    },
+    {
+      "id": "l30",
+      "text": "A pulse check: place your fingertip on the sensor, just sixty seconds.",
+      "startFrame": 3499,
+      "endFrame": 3630,
+      "durationFrames": 131,
+      "gapBefore": 8
+    },
+    {
+      "id": "l31",
+      "text": "Sixty seven beats per minute, saved right into the day around it.",
+      "startFrame": 3638,
+      "endFrame": 3748,
+      "durationFrames": 110,
+      "gapBefore": 8
+    },
+    {
+      "id": "l32",
+      "text": "Meds, symptoms, sleep, nutrition, all connected around that one moment.",
+      "startFrame": 3756,
+      "endFrame": 3899,
+      "durationFrames": 143,
+      "gapBefore": 8
+    },
+    {
+      "id": "l33",
+      "text": "A measurement becomes context the moment it is saved to the day.",
+      "startFrame": 3907,
+      "endFrame": 4010,
+      "durationFrames": 103,
+      "gapBefore": 8
+    },
+    {
+      "id": "l34",
+      "text": "Each reading joins the day it happened, with everything else logged.",
+      "startFrame": 4018,
+      "endFrame": 4111,
+      "durationFrames": 93,
+      "gapBefore": 8
+    },
+    {
+      "id": "l35",
+      "text": "You can also speak out loud, and your history listens back.",
+      "startFrame": 4119,
+      "endFrame": 4213,
+      "durationFrames": 94,
+      "gapBefore": 8
+    },
+    {
+      "id": "l36",
+      "text": "A quick voice check in, answered from your own records.",
+      "startFrame": 4221,
+      "endFrame": 4315,
+      "durationFrames": 94,
+      "gapBefore": 8
+    },
+    {
+      "id": "l37",
+      "text": "Every day connected, and every record in context.",
+      "startFrame": 4323,
+      "endFrame": 4413,
+      "durationFrames": 90,
+      "gapBefore": 8
+    },
+    {
+      "id": "l38",
+      "text": "Your health, connected.",
+      "startFrame": 4421,
+      "endFrame": 4467,
+      "durationFrames": 46,
+      "gapBefore": 8
+    },
+    {
+      "id": "l39",
+      "text": "Explore HealthGraph at healthgraph dot shop.",
+      "startFrame": 4475,
+      "endFrame": 4558,
+      "durationFrames": 83,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 4558,
+  "voiceSeconds": 151.933
+}

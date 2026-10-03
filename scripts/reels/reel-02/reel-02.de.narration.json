@@ -1,0 +1,22 @@
+{
+  "id": "reel-02",
+  "language": "de",
+  "concept": "verlauf-gefragt",
+  "cluster": "B",
+  "hook": "Stell dir vor, du kannst deinen Gesundheitsverlauf fragen.",
+  "cta": "Frag deine Gesundheitsunterlagen.",
+  "thumbnail": "Frag deinen Gesundheitsverlauf",
+  "caption": "Stell dir vor, du kannst deinen eigenen Verlauf einfach fragen: Wann habe ich meinen Blutbefund hochgeladen? HealthGraph führt dich zum Eintrag – Datum, Kontext, der Tag, an dem es stattfand. Jede Antwort zeigt die Quelle dahinter. Wellness-Informationen, kein medizinischer Rat. Kostenlos · DSGVO-konform · Ohne Werbung. Entdecke HealthGraph auf healthgraph.shop. #gesundheit #gesundheitsapp #gesundheitsverlauf #digitalegesundheit #persönlichegesundheit #datenschutz #sichsorgen #wohlbefinden #eigendaten #dokumentation",
+  "lines": [
+    { "id": "l1", "text": "Stell dir vor, du kannst deinen Gesundheitsverlauf fragen.", "beat": "Dunkle Titelkarte, Chat-Eingabefeld entsteht" },
+    { "id": "l2", "text": "Wann habe ich meinen Blutbefund hochgeladen?", "beat": "ai-chat screen: Frage wird in das Eingabefeld 'Ask about your health' eingegeben" },
+    { "id": "l3", "text": "Es liest deinen Verlauf, bevor es antwortet.", "beat": "ai-chat screen: Antwortblase erscheint, Hinweis 'Wellness info only' sichtbar" },
+    { "id": "l4", "text": "Es nennt das Datum, keine Vermutung.", "beat": "Antwort hebt das Datum hervor, sanftes Hineinzoomen" },
+    { "id": "l5", "text": "Und es kann dich dorthin nehmen.", "beat": "Chat screen schwindet, Übergang in den health-graph" },
+    { "id": "l6", "text": "Beobachte, wie es den Tag in deiner Zeitleiste öffnet.", "beat": "daily-report-Karte '3 OCT Today' öffnet sich, Tabs schieben hinein" },
+    { "id": "l7", "text": "Der Eintrag steht da, mit Kontext.", "beat": "daily-report: Eintrag wird hervorgehoben, Fußzeile 'Log x6, tap to open'" },
+    { "id": "l8", "text": "Kein langes Stochern in Ordnern mehr.", "beat": "Vergilbte Ordner-Icons lösen sich hinter dem geöffneten Eintrag auf" },
+    { "id": "l9", "text": "Die Antwort zeigt die Quelle dahinter mit.", "beat": "Sichttrennung: Antwort links, Eintrag rechts, verbunden durch eine Linie" },
+    { "id": "l10", "text": "Frag deine Gesundheitsunterlagen.", "beat": "Endkarte mit Wortmarke und CTA" }
+  ]
+}

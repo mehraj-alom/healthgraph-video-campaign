@@ -1,0 +1,26 @@
+{
+  "id": "reel-18",
+  "import": "Reel18",
+  "thumbnailImport": "Thumbnail18",
+  "compositions": [
+    {
+      "name": "Reel18En",
+      "lang": "en",
+      "tailFrames": 90,
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "name": "Reel18De",
+      "lang": "de",
+      "tailFrames": 90,
+      "width": 1080,
+      "height": 1920
+    }
+  ],
+  "thumbnail": {
+    "name": "Reel18Thumb",
+    "width": 1080,
+    "height": 1080
+  }
+}

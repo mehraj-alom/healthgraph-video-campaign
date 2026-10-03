@@ -1,0 +1,62 @@
+{
+  "id": "reel-06",
+  "language": "en",
+  "concept": "ai-records-navigation",
+  "cluster": "B",
+  "hook": "You forgot when you uploaded that report?",
+  "cta": "Ask your records.",
+  "thumbnail": "Your records remember the date",
+  "caption": "Which week was it again? Instead of digging through files, ask your records. The answer comes with the date, the timeline slides over to that day, the daily page opens, and the evidence is highlighted right there: three events, mood very good, seven hours of sleep. Two AI messages a month are free. #HealthGraph #AskYourRecords #AIHealth #HealthHistory #DailyLog #SelfTracking #HealthData #Wellness #DigitalHealth #PersonalRecords\nAsk your records.",
+  "lines": [
+    {
+      "id": "l1",
+      "text": "You forgot when you uploaded that report?",
+      "beat": "ai-chat screen, dimmed at first: input Ask about your health and the suggested questions visible; hook text overlays the chat"
+    },
+    {
+      "id": "l2",
+      "text": "So you ask, instead of digging through files.",
+      "beat": "ai-chat: the question types itself into the input field, the support-resources card stays visible as calm context"
+    },
+    {
+      "id": "l3",
+      "text": "Two AI messages a month are free.",
+      "beat": "The real 2 AI messages / month FREE chip highlights at the bottom of the ai-chat screen, then settles"
+    },
+    {
+      "id": "l4",
+      "text": "The answer comes with the date.",
+      "beat": "Chat reply bubble appears and the found date in it gets a soft zoom; no invented answer text, date is the hero"
+    },
+    {
+      "id": "l5",
+      "text": "The timeline slides over to that day.",
+      "beat": "Health Graph screen (12 nodes, 22 connections) drag-travels through time, sliding until the 3 OCT node is centered"
+    },
+    {
+      "id": "l6",
+      "text": "The daily page opens on its own.",
+      "beat": "daily-log screen, 3 Oct Daily Log, opens as the page with a clean card transition"
+    },
+    {
+      "id": "l7",
+      "text": "And the evidence is highlighted right there.",
+      "beat": "On daily-log, the Recent history row highlights: Nutrition Log, Sleep Log, Wellbeing Log, 3 events"
+    },
+    {
+      "id": "l8",
+      "text": "Mood, very good. Sleep, seven hours.",
+      "beat": "daily-log fields highlight in sequence: Mood Very good, then Sleep 7h"
+    },
+    {
+      "id": "l9",
+      "text": "Every answer points back to a place in your history.",
+      "beat": "Cross-dissolve: a thin line connects the chat answer bubble to the 3 OCT timeline node, answer linked to its place"
+    },
+    {
+      "id": "l10",
+      "text": "Ask your records.",
+      "beat": "End card: CTA over the dimmed ai-chat screen, voice FAB idle at the bottom"
+    }
+  ]
+}

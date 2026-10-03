@@ -1,0 +1,90 @@
+{
+  "id": "reel-17",
+  "language": "en",
+  "fps": 30,
+  "gapFrames": 8,
+  "lines": [
+    {
+      "id": "l1",
+      "text": "One place for the pieces of your health history.",
+      "startFrame": 0,
+      "endFrame": 78,
+      "durationFrames": 78,
+      "gapBefore": 0
+    },
+    {
+      "id": "l2",
+      "text": "Sleep. Nutrition. Medication. Symptoms. Measurements. Documents.",
+      "startFrame": 86,
+      "endFrame": 235,
+      "durationFrames": 149,
+      "gapBefore": 8
+    },
+    {
+      "id": "l3",
+      "text": "Usually they live scattered across five different places.",
+      "startFrame": 243,
+      "endFrame": 340,
+      "durationFrames": 97,
+      "gapBefore": 8
+    },
+    {
+      "id": "l4",
+      "text": "HealthGraph keeps them side by side.",
+      "startFrame": 348,
+      "endFrame": 415,
+      "durationFrames": 67,
+      "gapBefore": 8
+    },
+    {
+      "id": "l5",
+      "text": "A pulse reading on your fingertip, saved and synced.",
+      "startFrame": 423,
+      "endFrame": 506,
+      "durationFrames": 83,
+      "gapBefore": 8
+    },
+    {
+      "id": "l6",
+      "text": "Estimated calories from today's scans, clearly marked as estimates.",
+      "startFrame": 514,
+      "endFrame": 639,
+      "durationFrames": 125,
+      "gapBefore": 8
+    },
+    {
+      "id": "l7",
+      "text": "Mood, sleep, and meals from a single daily log.",
+      "startFrame": 647,
+      "endFrame": 745,
+      "durationFrames": 98,
+      "gapBefore": 8
+    },
+    {
+      "id": "l8",
+      "text": "Documents uploaded once, kept with everything else.",
+      "startFrame": 753,
+      "endFrame": 847,
+      "durationFrames": 94,
+      "gapBefore": 8
+    },
+    {
+      "id": "l9",
+      "text": "And the timeline shows how each day connects to the next.",
+      "startFrame": 855,
+      "endFrame": 941,
+      "durationFrames": 86,
+      "gapBefore": 8
+    },
+    {
+      "id": "l10",
+      "text": "Explore HealthGraph.",
+      "startFrame": 949,
+      "endFrame": 991,
+      "durationFrames": 42,
+      "gapBefore": 8
+    }
+  ],
+  "totalFrames": 991,
+  "voiceSeconds": 33.033
+}

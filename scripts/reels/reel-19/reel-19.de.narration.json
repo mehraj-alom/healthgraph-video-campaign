@@ -1,0 +1,21 @@
+{
+  "id": "reel-19",
+  "language": "de",
+  "concept": "cinematic-3d-graph",
+  "cluster": "H",
+  "hook": "Wie sieht deine Gesundheitshistorie aus, wenn alles verbunden ist?",
+  "cta": "Deine Gesundheit, verbunden. Erlebe HealthGraph auf healthgraph.shop.",
+  "thumbnail": "Deine Gesundheit, verbunden in 3D",
+  "caption": "Wie sieht deine Gesundheitshistorie aus, wenn alles verbunden ist? Schlaf, Mahlzeiten, Puls, Stimmung, im Umlauf um deine eigene Timeline, verbunden rund um deine Geschichte. Keine simulierten Scans, keine Vorhersagen, nur dein eigener Verlauf. Deine Gesundheit, verbunden. Erlebe HealthGraph auf healthgraph.shop. #healthgraph #selftracking #3dvisualisierung #gesundheitstimeline #digitalarchiv #visualisierung #healthtech #datenverlauf #bewusstesleben #gesundheit",
+  "lines": [
+    { "id": "l1", "text": "Wie sieht deine Gesundheitshistorie aus, wenn alles verbunden ist?", "beat": "dark space, a single warm light rises, the question hangs over a slowly turning point of light" },
+    { "id": "l2", "text": "Beginne bei einer Person. Ein Leben, keine Kurve.", "beat": "human silhouette fades in center frame, quiet, no UI anywhere" },
+    { "id": "l3", "text": "Rundherum alles, was du erfasst hast: Schlaf, Mahlzeiten, Puls, Stimmung.", "beat": "orbit motif: SLEEP, MEALS, PULSE, MOOD chips and document cards orbit the figure in slow rings" },
+    { "id": "l4", "text": "Jeder Punkt ist ein echter Eintrag, keine Dekoration.", "beat": "push-in: orbiting chips resolve into real data chips, 67 BPM, 977 kcal, 7h sleep, mood Very good" },
+    { "id": "l5", "text": "Manche Punkte verknüpfen sich. Die Verbindung wartete darauf, gesehen zu werden.", "beat": "camera dives into the orbit and emerges inside the health graph, 12 nodes 22 connections, green edges draw" },
+    { "id": "l6", "text": "Ein Puls an einem Tag, ein Dokument am anderen, dazwischen der Schlaf.", "beat": "document to node: a cream paper report card flattens into a graph node, camera travels along the timeline axis" },
+    { "id": "l7", "text": "Fliege durch den Graphen und die Geschichte ordnet sich selbst.", "beat": "continuous flight through node space, time filters sweep, nodes and edges assemble behind the camera" },
+    { "id": "l8", "text": "Keine simulierten Scans. Keine Vorhersagen. Nur dein eigener Verlauf, verbunden.", "beat": "orbit recedes around the silhouette, lights settle, clean dark frame" },
+    { "id": "l9", "text": "Deine Gesundheit, verbunden. Erlebe HealthGraph auf healthgraph.shop.", "beat": "end card: Deine Gesundheit, verbunden. healthgraph.shop wordmark" }
+  ]
+}
