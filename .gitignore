@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+remotion/node_modules/
+
+# Build outputs
+dist/
+build/
+*.log
+
+# Large binary assets (downloaded at render time)
+voice/models/*.onnx
+voice/models/*.onnx.json
+
+# Render outputs
+renders/
+*.mp4
+*.jpg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kaggle
+.kaggle/
+kaggle.json
+
+# Remotion cache
+.remotion/
